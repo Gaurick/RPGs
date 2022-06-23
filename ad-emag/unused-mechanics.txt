@@ -1,0 +1,887 @@
+Attributes
+Attributes are the number of dice.  Skills are the sides of the dice.
+
+Combat
+  Melee
+  Ranged
+Defense
+  Absorb
+  Mitigate
+Social
+  Deceive 
+  Persuade
+Support
+  Enhance
+  Restore
+Upkeep
+  Construct
+  Repair
+
+Combat attributes are leveled separately, but are initially based on attributes and skills.
+
+Actions
+Flesh
+Initiative
+
+Attributes are the number of sides on the die you use. 
+
+
+Mutations
+Mutation categories are based on attributes
+
+If you have one mutation that alters an attribute altered by another mutation, the old one goes away and the new one replaces it.
+
+Main stats
+
+
+Attack
+Used for aggressive actions
+Improves "to hit"
+Items are weapons
+Weapons improve damage
+
+
+Defense
+Used to protect from death
+Gives HP
+Items are armor
+Armor reduces chance of damage
+
+
+Support
+Used to bolster self and others
+Gives skills
+Items are tools
+Tools allow skills to be used
+
+
+Syrum
+Reserves of instant alter
+Allows character to do things
+Item is more syrum
+Gives you syrum to spend like mana
+
+
+Mutations branch off of main attribute
+Enhance, penalize, or adjust attributes
+May be chosen but require X level of Y attribute
+Strains give you base starting points for attributes.
+Xp gives you more syrum retention
+
+Board game building dungeon crawl.
+
+Make mutations and especially strain bonuses and penalities much larger and "game changing". Arrange mutations in groupings based on type. Maybe make even ones statistical bonuses and odds story bonuses. 
+
+
+Items and mutations do lots of damage. Bare hands, not so much. Reduce attacks to 1 or 2 per "weapon" (eg. Aimed and normal shot, punch and kick, ect.) 
+
+
+Minimum skill abstract level 1-3 adds 1 to untrained skills. 4-7 adds 2 to untrained skill level. 8-10 adds 3 to untrained skill level. 
+
+
+Maximum skill = stored except for current career's skill. That is unlimited.
+
+
+Learnable gives bonus skill points to spend? 1-3 = 0; 4-6 = 1; 7-9 = 2; 10 = 3?
+
+
+Sub conscience gives you that many hints from the mythmaker to ask. 
+
+
+Senses= game initiative 
+
+
+Bones = flesh
+Muscles= 1-3=1, 4-6=2, 7-9 = 3, 10 = 4
+Tendons = actions
+Skin = appearance
+Metabolism = attribute point bonus per rank. 1-3 = 0; 4-6 = 1; 7-9 = 2; 10 = 3
+
+
+Damage and armor are to be base 10. 1=worthless, 10=ultimate. To damage or absorb damage roll equal to or under number. Also keep rest of game base 10 for modular sake. Except flesh. Set to 20 as base? Try to figure out bones to flesh conversion?
+
+Rules
+  attribute tests
+    salvage from previous version
+  skill tests
+    salvage from previous version
+  combat
+    salvage from previous version
+  vehicles
+    salvage from previous version
+  experience
+    salvage from previous version
+  changing careers
+    untouched
+
+Thinking               Bodily
+ Abstract               Bones
+ Learnable            Metabolism
+Insight                  Muscles
+ Learnable             Skin
+ Senses.                Tendons 
+
+
+Thinking               Bodily
+ Knack                    Flesh
+ Resourcefullness  Enrichment
+ Ambition               Brawn
+ Warnings               Countenence
+ Initiative                Haste 
+
+
+Thinking               Bodily
+ Medicine               Fisticuffs
+ Engineering           Upkeep
+ Shooting                Pilot
+ Survival                  Entertainment
+ Literacy                  Thievery 
+
+ 35 points to spend on attributes and skills at creation. 
+
+
+
+
+
+
+ Maximum skill = stored except for current career's skill. That is unlimited. 
+
+
+ Learnable gives bonus skill points to spend? 1-3 = 0; 4-6 = 1; 7-9 = 2; 10 = 3? 
+
+
+ Sub conscience gives you that many hints from the mythmaker to ask. 
+
+
+ Senses= game initiative 
+
+
+ Bones = flesh
+ Muscles= 1-3=1, 4-6=2, 7-9 = 3, 10 = 4
+ Tendons = actions
+ Skin = appearance
+ Metabolism = attribute point bonus per rank. 1-3 = 0; 4-6 = 1; 7-9 = 2; 10 = 3 
+
+
+starting coin
+back story plea
+
+*******************************
+
+**********************************
+
+Rules
+d10 based system.
+ Roll equal to or above an attribute to succeed
+
+attribute tests
+skill tests
+combat
+Combat is as follows...
+   1 attacker rolls attack skill to hit
+   2 defender rolls armor to absorb blow
+   3 attacker rolls weapon's damage to injure
+   4 apply damage to flesh (-1 per blow) 
+
+vehicles
+experience
+  life experience
+  career experience
+changing careers
+
+Attack
+  Melee
+  Ranged
+Defense
+  Mitigate
+  Soak
+Social
+  Deceive 
+  Persuade
+Support
+  Sneak
+  Heal
+
+1-20 system, 1-5 being startup, 6-10 being veterans, 11-15 being elite, and 16-20 being master
+
+System should be modular, consistent, and not bad.
+
+Standard rule is you have 50/50 odds to succeed. Attributes average are 50% max. Every rule for characters either manipulate or break these rules
+
+Skills
+Trained skills double the number of dice on a test.
+You get two trained skills barring mutations.
+
+Rising in rank has rank bonuses (such as getting a cash bonus for being promoted to manager, or minions) at regular pre-determined intervols within the ranks. Default increases include player's level up bonuses, but also include training. Training includes options such as various attribute training, company perks (bonus loot, cash bonuses), or other services (lodging, travel, flesh) 
+
+
+"Quitting" means that you no longer receive quests, hours bonuses or perks, and you are probably banned from the company's property. It does allow you to start a second job. You would have to start at the bottom rank for hours and such. Maybe transfer the rank, mythmaker's decision. All previous xp and (non company owned) gear is kept. 
+
+
+Ranks cut off access to perks from lower tiers, yet grant access to higher new tiers. Maybe 8 ranks per job perhaps? Based on cashier, senior cashier, assistant manager, department manager, assistant store manager, store manager, assistant district manager, district manager. Can't achieve vice president or president rank just yet? Or make it uber difficult. Perhaps for another collection (expansion?) 
+
+
+Training comes in tiers and has previous tier requirements. Come up with some kind of damper on having characters just take all training tiers possible. Like make overtime hours "spent" on company perks, and on the job training have an out of pocket or time cost. 
+
+for on the job training, have it be "At x work hours, you can choose from y training." then have various "training programs" available. 
+
+Highest promotions within a career requires X hours of THAT career to get promotion. also under starting equipment perhaps give item information? and don't forget to make charts for on the job training bonuses, quartermaster spreads, levels within pay grades, re-work the level up bonuses to enhance or fill in gaps of the on the job training, and re-look at the whole game system core itself. 
+
+
+Shamen start out with modern medicine techniques the advance into primitive techniques. Modern being very materalistic and requiring a lot of stuff. Primative being more renewable and more skill based. 
+
+Overtime gives 1.5x xp AND 1.5x coin. 
+
+Training... something like 10 evenly spaced xp "tiers". Each tier grants passive stat "level up" bonuses (small and to fill in any holes players notice.) Also grants training. Perhaps select one primary (can change from tier to tier) skill or attribute boost and one secondary derrived attribute or other skill boost. Bonuses to be small (but bigger than passive bonuses.) In the +5% range? Could also put half way attribute bonus of +1? (Pending attribute re-work...) 
+
+Get rid of jobs and make it just training. xp = Hours of Experience. Training is for skill improvements. Require certain Hxp, minimum skills, coin payment and possibly previous training tiers. After having ways to improve skills, attributes, and derived attributes, allow players to use services, such as transportation services, mercs, researchers, foargers, and anything else i can come up with. First training list should probably be pay grades. They require hxp levels and increase automatically. Hxp is earned during quests and missions. 
+
+
+Training starts off in large-ish sizes and as you progress the bonuses become smaller and smaller. Training levels can only be taken once. Same with pay grades. of course... 
+
+Base 10 everything. Stats 1-10. 10 mutation categories, 10 mutations per category (also make mutations simpler and enhance a particular specific aspect). 10 skills with 5 training levels. 10 careers 5 ranks per career. 10 strains? 5 mutations per strain perhaps. 
+
+Starting a new carieer starts you at the base level. Require xp in that career field to advance. Have stat to track total xp just as a representative figure. Every level choose one of the following +1 particular attribute, +1 skill tier, or a specific occupational bonus. So each career a particular skill, attribute, specific item bonuses and maybe npc's for particular tasks. 
+
+Manigerial perks.  Allow max rank careers to continue recieving level up bonuses at regular levels of xp.
+
+
+Promotions allow you to select a perk from your new rank or from any rank below.  Skills and attributes are to "+1 to bla up to whatever level i want it to be".
+
+Thinking               Bodily
+ Shaman                 Prize Fighter
+ Historian                Downtrodden
+ Town Guard            Smuggler
+ Librarian                 Entertainer
+ Patient                    Scavenger 
+
+Attributes
+mentalattributes
+Abstract
+ Abstracted thinking.
+Used for Minimum Skill.
+ Minimum Skill is the skill rank of your non career skills. Equals Abstract 1-3 = 1, 4-7 = 2, 7-9 = 3, 10 = 4.
+Improves Medicine skill at start.
+ Any abstract rank above 6 adds +1 to your total Medicine skill. Only applies +1 once regaurdless of your Abstract rank. Applies even after character creation.
+Improved by Shaman career.
+
+
+Learnable
+ How quickly you pick up skills.
+Used for Bonus Skill Points.
+ Bonus Skill Points are awarded for every promotion. When Learnable equals 1-3, you gain 1
+ Improves Science skill at start. 
+
+
+ Improved by Historian. 
+
+
+Senses
+ Your sensory ability. 
+
+
+ Used for Initiative. 
+
+
+ Improves Ranged Combat skill at start. 
+
+
+ Improved by Town Guard career. 
+
+
+Stored
+ The information you have stored in your head. 
+
+
+ Used for Maximum Skill. 
+
+
+ Improves Literacy skill at start. 
+
+
+ Improved by Librarian career. 
+
+
+Sub conscience
+ Gut feelings and intuition. 
+
+
+ Used for Mythmaker Help. 
+
+
+ Improves Survival skill at start. 
+
+
+ Improved by Patient career. 
+
+
+physicalattributes
+Bones
+ How tough you are. 
+
+
+ Used for Base Flesh. 
+
+
+ Improves Melee Combat skill at start. 
+
+
+ Improved by Prize Fighter career. 
+
+
+ Metabolism
+ how quick you recover from poisons
+ used for poison, radiation, and other internal resistance
+ improves upkeep at start
+ improved by downtrodden 
+
+
+ Muscles
+ how strong you are
+ used for melee combat damage
+ improves pilot at start
+ improved by smuggler 
+
+
+ Skin
+ how good looking you are
+ used for first impression
+ improves entertainment at start
+ improved by entertainer 
+
+
+ Tendons
+ how quick you are
+ used for actions
+ improves thievery at start
+ improved by scavenger 
+
+
+Town guard -ranged combat, senses, ranged weapons and ammo, fellow guardsmen
+Shaman -medicine, abstract, medical supplies, foargers? Spirits?
+Downtrodden- upkeep, metabolism, repair supplies, informants
+Librarian- literacy, stored, books, research assistants
+Entertainer- entertainment, skin, extra money, rabid fans
+Patient- survival, sub conscience, horded survival supplies, conspiracy theorists
+Scavenger- thievery, tendons, pre plague odds and ends, fence
+Smuggler- pilot, muscles, vehicles, repair people
+Historian- science, learnable, maps and old scientific papers, academics
+Prize Fighter- melee combat, bones, melee weapons, underground fighters 
+
+
+ Combat is as follows...
+ 1 attacker rolls attack skill to hit
+ 2 defender rolls armor to absorb blow
+ 3 attacker rolls weapon's damage to injure
+ 4 apply damage to flesh (-1 per blow) 
+
+
+ Blood loss
+ If a weapon has bleeder in the notes it causes blood
+ loss with a successful attack that causes damage.
+ Every other turn target rolls metabolism. Success = no
+ more blood loss. Failure = -1 flesh and another blood
+ loss roll in 2 turns.
+ Poison
+ Poisons introduced have strength just like weapons and
+ a time. Time is how long between poison "attacks".
+ When the time has elapsed roll metabolism to resist
+ damage. Success = one final "attack" then the poison
+ ends it's effectiveness. Failure = poison "attack" then
+ another after the time of the poison passes.
+ Radiation
+ Same as poison. But instead of damaging flesh, every
+ failure = -1 from a random attribute
+ Vehicles
+ Same as people, but more damage can be taken. Also ,
+ different name for flesh
+ Fire
+ Fire size is difficulty that has to be tested against per
+ turn. Every failure = damage, then damage +1. So turn
+ 1 =-1, turn 2 =-2 ect.
+ Explosives
+ Same as guns but do d10 damage if they pass through
+ their armor.
+
+.Town Guard
+Description of occupation here
+Skill training - Ranged Combat
+Attribute training - Senses
+Occupational perk - Armed response
+Description of perk here
+
+
+Shaman
+Description of occupation here
+Skill training - Medicine
+Attribute training - Abstract
+Occupational perk - Ancestorial aid
+Description of perk here
+
+
+Downtrodden
+Description of occupation here
+Skill training - Upkeep
+Attribute training - Metabolism
+Occupational perk - Make do
+Description of perk here
+
+
+Librarian
+Description of occupation here
+Skill training-Literacy
+Attribute training - Stored
+Occupational perk - Research materials
+Description of perk here
+
+
+Entertainer
+Description of occupation here
+Skill training -Entertainment
+Attribute training - Skin
+Occupational perk - Noteritity
+Description of perk here
+
+
+Patient
+Description of occupation here
+Skill training-Survival
+Attribute training - Sub conscience
+Occupational perk - A cure to what ailes you
+Description of perk here
+
+
+Scavenger
+Description of occupation here
+Skill training-Thievery
+Attribute training - Tendons
+Occupational perk - Scavenge
+Description of perk here
+
+
+Smuggler
+Description of occupation here
+Skill training - Pilot
+Attribute training - Muscles
+Occupational perk - Hitch a ride
+Description of perk here
+
+
+Historian
+Description of occupation here
+Skill training - Science
+Attribute training - Learnable
+Occupational perk - Shoulders of giants
+Description of perk here
+
+
+Prize Fighter
+Description of occupation here
+Skill training - Melee combat
+Attribute training - Bones
+Occupational perk - Underground arms
+Description of perk here
+
+
+
+attributes
+Attributes
+1-10 range.
+1 terrible, 3 average 6 awesome 10 the best.
+30 points to spend at creation. All start at 1.
+Any attribute at or above 6 adds 1 to the linked skill. 
+
+
+mental attributes
+Abstract
+Abstracted thinking.
+Used for ?!
+Improves Medicine at start
+improved by Shaman
+
+
+Learnable
+How quickly you pick up skills
+Used for ?!
+Improves Science at start
+improved by Historian
+
+
+Senses
+Your sensory ability
+Used for combat initiative
+improves ranged combat
+improved by Town Guard
+
+
+Stored
+The information you have stored in your head
+Used for ?!
+improves literacy at start
+improved by Librarian
+
+
+Sub conscience
+Gut feelings and intuition
+Used for mythmaker help
+improves survival at start
+improved by patient
+
+
+physical attributes
+Bones
+How tough you are
+Used for base flesh
+improves melee combat at start
+improved by prize fighter
+
+
+Metabolism 
+how quick you recover from poisons
+used for poison, radiation, and other internal resistance
+improves upkeep at start
+improved by downtrodden
+
+
+Muscles
+how strong you are
+used for melee combat damage 
+improves pilot at start
+improved by smuggler
+
+
+Skin
+how good looking you are
+used for first impression
+improves entertainment at start
+improved by entertainer
+
+
+Tendons
+how quick you are
+used for actions
+improves thievery at start
+improved by scavenger
+
+
+derived attributes
+skills
+Skill 0
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-1
+Prerequesits-Starting level.
+Cost-barter or coin
+Time to Complete-Completed before you begin playing. 
+
+
+Skill1
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-4
+Prerequesits-preivious skill level & bla xp hours
+Cost-barter or coin
+Time to Complete-4 days. 
+
+
+Skill2
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-6
+Prerequesits-preivious skill level & bla xp hours
+Cost-barter or coin
+Time to Complete-6 days. 
+
+
+Skill3
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-8
+Prerequesits-preivious skill level & bla xp hours
+Cost-barter or coin
+Time to Complete-8 days. 
+
+
+Skill4
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-9
+Prerequesits-preivious skill level & bla xp hours
+Cost-barter or coin
+Time to Complete-9 days. 
+
+
+Skill5
+Training Course-name me
+Description-make me interesting, but brief
+Skill Granted-10
+Prerequesits-preivious skill level & bla xp hours
+Cost-barter or coin
+Time to Complete-10 days. 
+
+
+1Pilot
+2 Medicine
+3 Ranged Combat
+4 Melee Combat
+5 Science
+6 Thievery
+7 Survival
+8 Literacy
+9 Upkeep
+10 Entertainment 
+
+
+Skill levels now 1-10.
+Skill per tier start at 1, 4, 6, 8, 9, 10.
+
+MooCharacters select occupation. Options include
+Town guard - ranged combat, senses, ranged weapons and/or ammo, fellow gaurds to attack or defend
+Shaman - medicine, abstract, medical supplies, foargers? Spirits?
+Downtrodden - upkeep, metabolism, repair supplies, informants
+Librarian - literacy, stored, books, research assistants
+Entertainer - entertainment, skin, extra money, rabid fans
+Patient - survival, sub conscience, horded survival supplies, conspiracy theorists
+Scavenger - thievery, tendons, pre plague odds and ends, fence
+Smuggler - pilot, muscles, vehicles, repair people
+Historian - science, learnable, maps and old scientific papers, academics
+Prize Fighter - melee combat, bones, melee weapons, underground fighters 
+
+Instead of Randoms strain maybe Gene Benders. Start with Unstable Genetic Code and 9 other random (and non conflicting) mutations? Or have 1d10 mutations plus unstable... 
+
+career
+Town guard - ranged combat, senses, ranged weapons and ammo, fellow guardsmen
+Shaman - medicine, abstract, medical supplies, foargers? Spirits?
+Downtrodden - upkeep, metabolism, repair supplies, informants
+Librarian - literacy, stored, books, research assistants
+Entertainer - entertainment, skin, extra money, rabid fans
+Patient - survival, sub conscience, horded survival supplies, conspiracy theorists
+Scavenger - thievery, tendons, pre plague odds and ends, fence
+Smuggler - pilot, muscles, vehicles, repair people
+Historian - science, learnable, maps and old scientific papers, academics
+Prize Fighter - melee combat, bones, melee weapons, underground fighters
+
+Company name- Ward Protection Services
+Company Description- Ward Protective Services is a progressive company seeking to secure the towns and production facillities as they are founded.
+Company Objectives- Provide cost effective protective services and a standing militia where needed. Utilize trained operatives to expand employee base by identifying locals with talents and training them to be members of Ward Protection Services. Secure additional arms and armors for company use.
+Career Description- Town Defense Coordinators are required to provide defense for their assigned community. Defensive action is required from both foreign and domestic sources. The good of the town is above all else. Coordinators are required to place themselves in harm's way to protect the persons and property of their community. Entry levels are to assume the greatest risk and work on the front lines of any aggression. Managerial levels will work more to coordinate the defenses of the community. 
+
+
+Title- Recruit
+Position Requirements- Entry level position. No experience necessary.
+Position Description- Man whatever fortifications are available for the community. Stand on the very front lines of conflict and act as the first responder to foreign and domestic aggression.
+On the Job Training-Select one of the following.
+Attribute improvement- +1 to Senses, up to a maximum value of 6.
+Skill Improvement- +1 to Ranged Combat, up to a maximum value of 6.
+Assigned Equipment- A bow and 10 arrows.
+
+Name-  Bow
+Damage- 2
+Notes-   
+Value- bla
+
+Name- Arrows
+Use- bla
+Notes- bla
+Value- bla
+
+Assigned Personel- None to start.
+Salary Grade- 6 coin per work hour completed.
+Starting Package- In addition to any personal effects recruits will receive basic protective gear and a small hand to hand weapon.
+
+Name- bla
+Absorbation- bla
+Notes- bla
+Value- bla 
+
+
+Title- Grunt
+Position Requirements- Requires 2,000 hours of town guard experience.
+Position Description- Grunts are the bulk of a given location's defense force. They're required to continue the safeguarding of a given location. This includes remaining on vigilant watch for approaching forces, manning established defensive fortifications, and restoring peace and order durring times of unrest.
+On the Job Training- Select one of the following.
+Attribute improvement- +1 to Senses, up to a maximum value of 7.
+Skill Improvement- +1 to Ranged Combat, up to a maximum value of 7.
+Assigned Equipment- A crossbow and 10 bolts.
+
+Name-  Crossbow
+Damage- 3
+Notes- bla
+Value- bla
+
+Name- Bolts
+Use- bla
+Notes- bla
+Value- bla
+
+
+Assigned Personel-One of your trench buddies will perform a single pre-specified task at a rate of 100 coin per task. After gaining their confidence the first time, they will continue to work under the same arrangement furthermore. That is unless you get them killed.
+
+Name- bla
+Active skill- skill they are known for
+Defensive skill- combat skill
+Combat attributes- to be announced?
+Equipment- stuff
+Notes- bla
+Cost to hire- price per task
+
+Salary Grade- 10 coin per work hour completed.
+Promotion Incentive-400 coin bonus for promotions. 
+
+
+Title-Veteran
+Position Requirements- 4,000 hours of town guard experience required.
+Job Description- Veteran town guards are expected to take additional dangers and risks to safeguard the property and lives of the community they are assigned to. Veterans are responsible for construction and maitnence of defensive fortications.
+On the Job Training- Select one of the following.
+Attribute improvement- +1 to Senses, up to a maximum value of 8.
+Skill Improvement- +1 to Ranged Combat, up to a maximum value of 8.
+Assigned Equipment- A pistol and 10 bullets.
+
+Name-  Pistol
+Damage- 4
+Notes- bla
+Value- bla
+
+Name- Pistol bullets
+Use- bla
+Notes- bla
+Value- bla
+
+Assigned Personel- Two of your closest friends agree to help you with a particular pre-specified task for a rate of 300 coin per task. After gaining their confidence the first time, they will continue to work under the same arrangement furthermore. That is unless you get them killed.
+
+Name- bla
+Active skill- skill they are known for
+Defensive skill- combat skill
+Combat attributes- to be announced?
+Equipment- stuff
+Notes- bla
+Cost to hire- price per task
+
+Salary Grade- 15 coin per hour.
+Promotion Incentive- 600 coin bonus for promotions. 
+
+Title-Group Leader
+Position Requirements-Requires a minimum of 4,000 town guard work hours.
+Job Description- Group leaders take command of moderate sized groups. No longer do they lead from the front lines group leaders must process tactical information about their chosen protectorate and the forces that threaten it. This information is then utilized to create winning battle stratigies.
+On the Job Training- Select one of the following.
+Attribute improvement- +1 to Senses, up to a maximum value of 9.
+Skill Improvement- +1 to Ranged Combat, up to a maximum value of 9.
+Assigned Equipment- A shotgun and 10 shotgun shells.
+
+Name-  Shotgun
+Damage- 8
+Notes- bla
+Value- bla
+
+Name- Shotgun shells
+Use- bla
+Notes- bla
+Value- bla
+
+
+ Assigned Personel- Your promotion grants you a squad of 5 town guards to use for specific tasks. You must pay to use the squad for a given task, at a rate of 750 coin per task. Once you earn the privilage of commanding a squad, you can assign them further tasks under the same arrangement. In case of their untimely demise, you will be reassigned a squad at the company's earliest convience.
+
+Name- bla
+Active skill- skill they are known for
+Defensive skill- combat skill
+Combat attributes- to be announced?
+Equipment- stuff
+Notes- bla
+Cost to hire- price per task
+
+Salary Grade-25 coin per hour.
+Promotional Incentive-1000 coin bonus for promotion. 
+
+
+Title-Outfit Leader
+Position Requirements-Requires a minimum of 5,000 town guard work hours.
+Job Description-Outfit leaders take on less of a front line role and assume ground level command of forces. Also required to distribute and carry out commands from officers.
+On the Job Training-Select one of the following.
+Attribute improvement- +1 to Senses, up to a maximum value of 10.
+Skill Improvement- +1 to Ranged Combat, up to a maximum value of 10.
+Assigned Equipment- A rifle and 10 bullets.
+
+Name-  Rifle
+Damage- 7
+Notes- bla
+Value- bla
+
+Name- Rifle bullets
+Use- bla
+Notes- bla
+Value- bla
+
+Assigned Personel- Outfit leaders are trusted with the lives of many.  If so needed they may call upon up to three full squads of 5 guards within each squad.  Each squad costs 1,000 coin per assigned task.  Once you earn the privilage of commanding a squad, you can assign them further tasks under the same arrangement. In case of their untimely demise, you will be reassigned a squad at the company's earliest convience
+
+Name- bla
+Active skill- skill they are known for
+Defensive skill- combat skill
+Combat attributes- to be announced?
+Equipment- stuff
+Notes- bla
+Cost to hire- price per task
+
+Salary Grade-30coin per hour.
+Promotional Incentive-5,000 coin bonus for promotions.
+
+Company name- name
+Company Description- stuff
+Company Objectives- more stuff
+Career Description- stuff still
+
+
+Title- name
+Position Requirements- Entry level position. No experience necessary.
+Position Description- things
+On the Job Training- Select one of the following.
+     Attribute improvement-  +1 to abstract, up to a maximum value of 6.
+     Skill Improvement-  +1 to medicine, up to a maximum value of 6.
+     Assigned Equipment-  medical supplies?
+     Assigned Personel-  none to start
+Salary Grade- 6 coin per work hour completed.
+Starting Package- starting crap
+
+Title- name
+Position Requirements- Requires 2,000 hours of Shaman experience required.
+Position Description- words
+On the Job Training- Select one of the following.
+     Attribute improvement-  +1 to Abstract, up to a maximum value of 7.
+     Skill Improvement-  +1 to Medicine, up to a maximum value of 7.
+     Assigned Equipment-  medical supplies?
+     Assigned Personel-  foargers of supplies?  spirits of aid?
+Salary Grade- 10 coin per work hour completed.
+Promotion Incentive- 400 coin bonus for promotions. 
+
+
+Title-name
+Position Requirements- 4,000 hours of shaman experience required.
+Job Description- words
+On the Job Training- Select one of the following.
+     Attribute improvement-  +1 to Abstract, up to a maximum value of 8.
+     Skill Improvement-  +1 to Medicine, up to a maximum value of 8.
+     Assigned Equipment-  medical supplies?
+     Assigned Personel-  foragers of supplies?  spirits of aid?
+Salary Grade- 15 coin per hour.
+Promotion Incentive-  600 coin bonus for promotions.
+
+Title-name
+Position Requirements-Requires a minimum of 4,000 shaman work hours. 
+Job Description- bla bla bla
+On the Job Training- Select one of the following.
+     Attribute improvement-  +1 to Abstract, up to a maximum value of 9.
+     Skill Improvement-  +1 to Medicine, up to a maximum value of 9.
+     Assigned Equipment-  more medical supplies
+     Assigned Personel-  spirits/foargers?!
+Salary Grade- 25 coin per hour.
+Promotion Incentive- 1000 coin bonus for promotion.
+
+
+Title- name
+Position Requirements-Requires a minimum of 5,000 shaman work hours. 
+Job Description- words some more
+On the Job Training- Select one of the following.
+     Attribute improvement-  +1 to Abstract, up to a maximum value of 10.
+     Skill Improvement-  +1 to Medicine, up to a maximum value of 10.
+     Assigned Equipment-  medical supplies!!
+     Assigned Personel-  foarging spirits?
+Salary Grade- 30 coin per hour.
+Starting Package- 5,000 coin bonus for promotions.

@@ -1,0 +1,102 @@
+Rules to write
+Skill vs environment 
+Attribute vs environment 
+Skill vs npc/player
+Attribute vs npc/player
+Secret skill vs whatever
+Secret attribute vs whatever
+Helping others with test
+Group vs whatever
+Bonus to roll
+Penalty to roll
+Each attribute with each skill under it
+Elemental attach vs defense
+Physical attack vs defense
+Quick break
+Extended break
+Life points
+Fighting death
+Defeating death
+Combat order
+Surprise round
+Combat turn
+Actions
+Move
+Bonus
+Reaction
+Leveling up
+
+
+
+Rules
+Xp is spent for improvements
+
+Combat
+Attacks = skill + damage.
+Defense = defense + armor or dodge + armor.
+
+Actions per turn based on stats and have a minimum of 1
+
+Actions
+Move- couple of squares per action
+Melee one handed- 1
+Melee two handed- 2
+Ranged one handed- 2
+Ranged two handed- 3
+Ranged machine gun- 1
+
+Armor adds extra dice and reduces damage
+Dodge multiplies but succeeds or not
+
+Melee combat
+Melee weapons add a static value
+
+Ranged combat
+Ranged weapons multiply your attack
+
+Vehicular combat
+Same as regular combat but with more hp, armor, and speed
+
+Healing
+
+Tinkering
+
+Mutations
+Mutation categories are based on attributes
+
+If you have one mutation that alters an attribute altered by another mutation, the old one goes away and the new one replaces it.
+
+Main stats
+
+
+Attack
+Used for aggressive actions
+Improves "to hit"
+Items are weapons
+Weapons improve damage
+
+
+Defense
+Used to protect from death
+Gives HP
+Items are armor
+Armor reduces chance of damage
+
+
+Support
+Used to bolster self and others
+Gives skills
+Items are tools
+Tools allow skills to be used
+
+
+Keep the descriptions and requirements simple! 
+
+Xp based system
+Able to convert xp to cash
+Cash for advanced things
+Skill increases (bonus or required?)
+Crafting gear
+Purchasing gear
+Minions
+Shelter

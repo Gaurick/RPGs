@@ -1,0 +1,308 @@
+**Character Creation**
+
+FIXME 
+1st person intro magizine ad for syrum
+-Ed intro 
+FIXME
+
+This chapter will walk you through the process of creating a character.  Once the process is finished there will step-by-step walk through of creating a character by selecting all of the options intentionally.  Then the same will be done for a character with randomly determined statistics.
+
+*Select strain*
+First your character needs to determine their stable genetic strain, or strain for short.  Between the plague killing off too many people and the syrum mutating most of the rest, many things had to change.  Once the plague settled down the world had a lot more diversity to it than it once did.  The syrum warped and twisted people to a cruel parody of what they once were.  Eventually it was noticed that there were some similarities between people.  Different groups began to band together and thus the strains begain to emerge.  These new strains began to band together for a myrid of reasons.  Comfort, protection, old habbits, the reason doesn't much matter but the results do.  It should be noted that there is a large variation between individuals of a particular stable genetic line.  There are also stable genetic strains that arent listed here, so if you've got a particular strain in mind work with your myth maker to develop the mechanical and story parts of the strain.  Finally the random strain is a group unified by their ununified nature.  Any person who doesn't fit into a particular strain is technically a random strain.
+Strains serve as a template of common traits that have developed randomly as a result of the syrum.  Each strain gets specific mutations and an extra bonus as well as penality particular to that strain.  You can either select the strain you would like your character to start with or you can roll randomly for it.  For a random selection roll d12 then count through the options until you reach the number you rolled to randomize your strain.  Once you've found your stable genetic strain, make a note of the bonuses, penalties, and mutations from your strain. After that jot down a note or two about any other mutation effects.  Once that's all done, proceed to the attribute section to learn about and determine your attributes.  Descriptions of the strains, their mutations, and more mutations can be found later in the book.
+It should be noted that if a character is to receive conflicting mutations during creation or even over the course of their adventures, they do not receive both mutations. In the case of two or more conflicting mutations, such as receiving Plastic skin as well as Leaden skin, the most recent mutation overrides the previous mutations.  The older conflicting mutation and all of it's bonuses and penalties are removed.  Ultimately it is up to the myth maker to determine if a pair of mutations are conflicting or now.
+
+FIXME put mutation info and add total bonuses and penalties FIXME
+
+*Amoebas*
+Extra bonus - Double will to fight.
+Extra penalty - Reduce muscles by one step.
+Mutations- 
+(34) Allergies 
+(35) plastic skin 
+(36) silicone flesh 
+(77) overactive stomach acid production 
+(92) lethargic
+
+*Boars*
+Other bonus - Can pick either fighting or shooting as a free known skill.
+Other penalty - Reduce learnable by one step.
+Mutations- 
+(15) Snout 
+(15) curly tail 
+(39) pigskin 
+(52) dwarfism 
+(55) overactive digestion
+
+*'Bots*
+Other bonus - FIXME armor bonus or natural armor FIXME
+Other penalty - Reduce subconscious by one step.
+Mutations- 
+(22) Metallic bones 
+(26) leaden skin 
+(51) natural battery 
+(76) mechanical limb
+(85) receives radio waves
+
+*Brains*
+Other bonus - Increase learnable by one step.
+Other penalty- Reduce bones by one step.
+Mutations- 
+(13) Uncovered brain 
+(28) abnormally large head 
+(56) inherited memories 
+(79) absent minded 
+(92) lethargic
+
+*Dryads*
+Other bonus - Increase subconscious by one step.
+Other penalty- Reduce haste by one step.
+Mutations- 
+(6) Elongated limbs 
+(20) leaves and bark 
+(42) poisonous blood 
+(59) altered perception 
+(61) photosynthesis
+
+*Freaks*
+Other bonus - Increase countenence by one step.
+Other penalty - Reduce muscles by one step.
+Mutations- 
+(37) Tinted skin 
+(43) hardened secretions 
+(44) breath smoke 
+(50) extra fingers 
+(70) hemophiliac
+
+*Immune*
+Other Bonuses- None.
+Other Negatives- None.
+Mutations- None.
+
+*Leathernecks*
+Other bonus - Increase skin by one step.
+Other penalty- Reduce stored by one step.
+Mutations- 
+(7) Hoofed feet 
+(12) horns 
+(40) leathery hide 
+(53) gigantic 
+(60) extra stomachs.
+
+*Randoms*
+Other bonus - Roll a d8 to determine which attribute is increased by one step.
+Other penalty- Roll a d8 to determine which attribute to reduce by one step.
+Mutations- Randoms have 1d10 mutations at creation that are rolled for randomly, of course.
+
+*Red Herrings*
+Other bonus - Increase muscles by one step.
+Other penalty - Reduce tendons by one step.
+Mutations- 
+(8) Webbed hands and feet 
+(18) gills 
+(19) fish eyes 
+(41) scales 
+(58) air bladder
+
+*Secnits*
+Other bonus - Increase senses by one step.
+Other penalty - Reduce stored by one step.
+Mutations- 
+(10) Extra limbs 
+(25) exoskeleton 
+(65) adhesion 
+(67) extra eyes 
+(91) wiry
+
+*Wretched*
+Other bonus - Increase haste by one step.
+Other penalty - Reduce skin by one step.
+Mutations- 
+(5) Cancerous 
+(6) elongated limbs 
+(14) solid ribcage 
+(24) abnormally shaped bones  
+(90) double jointed
+
+*Attribute Descriptions*
+Attributes are a mechanical way of representing a character’s natural self. Like all traits on a person, given enough time and work, you may improve them as high as you wish. 
+
+Bones are the things that keep you up. It is a measure of how much of physical damage you can take before it’s time for your dirt-nap. This is the one of two attribute that deals with the amount of damage your character can actually take before they become DOA.  It forms the first half of your will to fight and represents the physical damage you can endure before giving up.
+
+Muscles are the things that make you move. It is a measure of your strength and shows how much you can lift, carry, smash, and how much you hurt in melee combat. Macho buff people are rolling in this attribute. 
+
+Senses is the attribute that encompasses all five of your senses. It is the average of all of your senses, for simplicity sake they are lumped into one attribute. You may have one or more dominant sense, and one or more impaired sense, but this represents the your general awareness of the world around you.
+
+Tendons are what help your muscles move. It is a measure of your general dexterity. It shows how steady your hands are, how fast they are, and how good your reactions are. If you can teist, contort, and move precisely, then this is your attribute.
+
+Abstract is the measure of your ability to think differently and consider non-standard solutions.  It also allows you to see through verbal assaults and reinforces your mental will to fight.  Abstract makes up the second half of your will to fight which is the measure of how much verbal and physical damage you can take before giving up in a fight.
+
+Skin is what people notice first when they look at you. It represents your general appearance and how attractive you may appear to other people. Just remember, beauty is in the eye of the beholder.
+
+Stored is the measure of the information that you have in your head. If the stat is low, you are not stupid, you just don’t know too many facts about things. The higher it is, the more your brain resembles a well stocked library.
+
+Sub-Conscience is the measure of your instinct and intuition. It is the other part of your brain (the one you don’t think about too much) and it represents gut feelings and intuition.  It’s main use is to be used by players who are stuck and need help with what to do next or a character's ability to perform actions a character wouldn't normally be able to perform.
+
+So there is the brief description of your attributes. Next is assigning values to them.  The lowest an attribute can be is d2 and the highest it can be is d12.  The different steps of attributes are; d2, d4, d6, d8, d10, d12, and d20.   No attribute can go lower than d2. In extreme situations attributes can go above d12 to d20, but typically this isn’t something that will happen.  
+When creating your character you can either roll randomly to determine your attributes or assign points to your attributes.
+
+To randomly determine your attributes roll a six sided die for each attribute.  Multiply the result of the roll by 2 and that is the number of sides on the die for the attribute.  You can either roll eight dice at once and the scores can be distributed as desired or each attribute can be rolled for one at a time in order.
+
+To assign your attributes start by setting all of your attributes to d6.  Next you have 5 attribute step increases you can spend.  Using one step you can increase your d6 attribute to a d8.  Using three step increases will improve your attribute to a d12.  Also if you need more step increases you can lower any attribute down to d4 or even d2.  You then can improve a different attribute by the number of steps you reduced the other attribute by.
+
+*Equivalent Attributes*
+Now that you know what your attributes are, you want to see how you compare to the rest of the world. Here’s a list that helps you with just that.
+d2 - Horrible- This is absolutely not one of your best points. It is as low as humanly (and inhumanly) possible. It might just be something that you may want to work on when you get some time on your hands.
+d4 Average Joe- You are about the same as most other people. You don’t stand out in the crowd in whatever attribute. You aren’t horrible with it and you won’t win much of anything for it.
+d6 - Average Champion- You are beginning to stand outside of the crowd. You are better than the next person, but when it comes to most adventurers and villains, though you are just so-so.
+d10 - Great Champion- You are starting to become better at this. You have either gotten lucky, or you have been working to get this good for a long time. Either way, you stand out from the “run of the mill” person. Keep up the good work.
+d12 - Epic Champion- You are incredible. Stories about you are told to children, to fill them with a sense of wonder, or dread. that is up to your actions. But regardless, many know of your greatness, and give you your due respect (or fear).
+d20 Demigod- You are the greatest around. The ones that are up here with you, you could probably count on both hands. You have a notorious reputation of heroism, or terror that follows you where ever you travel.  Not normally an attribute you can achieve.
+
+*Derived Attributes*
+Next up since you have the attributes and mutations done, are the derived statistics. They are a little complex at first, but only require minor adjustment after you make your character.
+
+Countenence- Do you look like you came in dead last in a shovel fight by using your face to block? Can you make dogs whimpier just by looking at them? Or perhaps you make the angels themselves weep with joy
+for your face, launch a thousand ships with a sigh, or just get a lot of free drinks?  Well your physical appearance has everything to do with what people first think about. Your countenence can really shoot you in the foot, or save you from fighting in the first place. So here’s the countenences.
+d2 Skin- Disgust. You are so ugly your presence curdles milk. You will need to work on second impressions probably.
+d4 Skin- Neutral. You’re normal. Congrats, you blend in with the rest of the world.
+d6 Skin- Attraction. You are pretty good looking. If it wasn’t for that nasty scar though...
+d10 Skin- Privilaged.  You can and frequently do use your looks to get by in life.
+d12 Skin- Adoration. Few can tell you, “No”. Even fewer can survive your charms.
+d20 Skin- Worship. People fall to their knees at your feet. Have fun with the psycho stalkers.
+
+Brawn- How much stuff you can hold without extra effort.  If you exceed how much you can carry you'll be slowed down until you're so overburdened you can't move.  You can carry a number weighty objects equal to the highest number you can roll for your muscles.
+
+Haste- The place in the order of combat that your character takes. This derived attribute shows how aware you are of dangerous situations. It is determined by using whatever your senses die is.
+
+Actions- How many things you can do in one turn of combat. There is a minimum of two actions for any character. Your actions are half of the highest roll you can get for your tendons plus one.
+
+Will to Fight- Represents your character's investiment in combat in general.  Includes equal amounts of physical endurance combined with your mental relience.  Your will to fight equals, the highest number you can roll for your bones plus the highest number you can roll for your abstract. Once you have both of those numbers combined, double it.  Because you're the main character and you need a pretty strong will to fight.
+
+Intuition- The gut feelings of a character.  The player may either use a use of intuition to get advice from the myth maker or the the player can substitute their sub-conscience score for an attribute on any roll.  Each use returns after a good night's sleep.  Your intuition equals half of the highest number you can roll with your sub-conscience.
+
+Knack- Learning new skills takes time and effort.  When investing in a new skill, some have a long and drawn out struggle.  Others pickup new skills without more than the minimum effort.  The cost of learning a new skill is based on how many skills you currently know multiplied by a number based on your learnable attribute.  The skill multiplier is,
+d2 Learnable- x15
+d4 Learnable- x10
+d6 Learnable- x5
+d8 Learnable- x4
+d10 Learnable- x3
+d12 Learnable- x2
+d20 Learnable- x1
+
+Skills- Speaking of skills, characters have a few to get them through their adventures.  Each character has a number of skills equal to the highest number they can roll on their stored die, divided in half.
+
+Recoursefullness- The total of your character’s experience in this world. As you adventure, mishap, fight, run, live, and love you gain experience. It’s a way to represent how much your character has grown and matured over the course of their life. Total experience can never go down, unless you get amnesia or appear on a soap opera. This number is only for compairison to other characters to see how skilled you are.
+
+Ambition- This is the amount of experience your character has available to improve themself. Ambition is spent on improving your character’s skills or attributes. After creation characters need to earn their experience yourself.  You begin with 50 XP to work with.
+
+Skills
+Next you get to select your character's skills.  You should know your number of skills known by this point.  You either know a skill or you don't.  The following are the skills available for characters.
+
+Fighting- The fine art of up close and personal combat.  Includes whatever esoteric combat methods you need or want.  Such as bare knuckle brawling, elegent fencing, kung fu, and any other merhods of fighting in melee combat.
+
+Shooting- The other method of fighting, at a distance.  Covers different methods ranging from throwing rocks to the use of machine guns.  If you're attacking at a distance, then you're using the shooting skill.
+
+Sneaking- The skill of being able to perform actions, including moving around, without being seen or detected.  Also covers sneaky acts, such as stealing and planting small objects.
+
+Dodging- Dipping, diving, ducking, and dodging are all what this skill includes.  This is the skill to use if you want to avoid physical damage.  When physical damage is coming you can either attempt to dodge or use your armor to soak the damage.
+
+Deceiving- Using false information to convince your target of something.  Covers hiding behind downright bullying, telling a person what they wanted to hear, and adjusting your story on the fly.
+
+Persuading- The fine art of using facts and truth to convince someone to think or believe what you'd like them to believe.  Persuading covers fast talking, begging and pleading, as well as misuse of authority.
+
+Insight- Using your senses, abstract thinking, and general empathy to read other people.  Allows you to get an idea of whats going on inside the mind of other people around you.
+
+Enhancement- Building and beefing up those around you,
+sometimes even including yourself.  This skill is used to provide boosts and boons to yourself and your fellow adventurers.
+
+Restoration- Some may call it medicine, others call it moral support.  Either way the restoration skill is typically used to fix problems caused by people in violent dissagreement with you and your cohort.
+
+Building- The art of creating new things.  Covers constructing whole buildings, scientific items, and desperate survival shelters.
+
+Upkeep- Fixing and repairing existing things.  Runs the gamut of advanced computer systems to darning socks.
+
+Driving- Operating motor vehicles, to persuading stuborn mules.  This skill includes navigation as well.
+
+Skill Equivalents
+Don't have the skill- You have a vauge idea of what to do and can probably fake-it until you make-it.
+Have the skill- You possess a pretty wide swath of knowledge in the given subject.  Though not perfect or all knowing, you are well versed in that area of study.
+
+Languages
+Next you get to select a language.  Characters begin knowing the local language.  If you desire additional languages you can spend some of your available XP to learn additional languages or spend some role playing time and effort to learn.
+
+Local - collection of enough words, phrases, and colloquialisms to communicate clearly with most people in the area you are in.  Default language and the one everyone starts with.
+
+Esperanto - a mix of parts of most languages known that should get you speaking with people from other areas without too many troubles. 
+
+Business - more of a way of speaking than a language.  Allows precise information to be snuck into very tough to follow conversations.  Unless you are also fluent in business.
+
+Tech - the language used to describe technological, mechanical, construction, and scientific things.  Mostly used to make fun of users behind their backs though.
+
+Sales - the language of deception, verbal feints, half truths, and persuasion.  You don’t need to know much about the thing you’re talking about, but you can talk circles around it all day long.
+
+Spend starting xp
+Players start with available XP "spend".  New characters begin with 50 XP to use as they wish.  Any unspent XP may be kept until a good time to spend the XP comes up.  Spending XP when creating a character doesn't take any time or effort.  Once the game begins spending XP will require some time and effort, not adventuring, spent to improve your character.  the exact time and specific effort is up to the myth maker.
+
+To improve an attribute it will cost 5 times the number of sides on the attribute die currently.
+
+To learn another skill you will need to check your knack derived attribute. 
+
+Spending 2 XP will give you an additional point of will to fight without having to improve your abstract or bones attribute.
+
+Improving haste costs the highest you can roll on your haste currently times 3 in XP.
+
+Brawn adds 1 extra weighty item for 15 xp.
+
+Assistance is 25 xp for each additional use.
+
+Learning a new language will cost you 25 XP to learn.  
+
+Improving an attribute improves any derived attribute tied to that attribute.  If you improve a derived then improve the attribute it's tied to, then you would improve it normally, including the previous improvement to just the derived attribute.
+
+If you need to create a character that isn't just starting out, perhaps due to untimely death or adventure specifics, then the myth maker will let you know how much XP you have for both your total and your available XP.  After that you'd spend the per usual.  The myth maker will also let you know if you start with any additionalcoin to purchase supplies.
+
+Now that all of the mechanics of your character are finished its time to fill in some personal details to describe your character.  It should be noted that the description should be for what is average for your character.  You aren't required to always look and behave as filled in.  Also these descriptions, just like any other attribute, can change over the course of a character's life.
+
+Name- What others should call you, your code name, titles, or whatever else should be used to designate your character.
+Cleanliness - How clean you keep yourself.  Do you insist on being pristine and sparkling, or are baths for sissies and you prefer to be able to smell yourself all the time?
+Hair color- What color does your hair normally look?  If its an unnatural color, how do you get it that way?
+Hair style- What is the normal shape of your hair?  Wavy, straight, non-Eucludian?  How do you get it into that shape?
+Scars- Do you have any scars?  If not, don't worry, you'll probably get some soon enough.  If so how did you get those scars?
+Tattoos/piercings- Have you anything afixed through your skin or forever etched upon it?  What is it, is there a story behind it, and what is it?
+Physical description- What are your prominant physical features?  If someone was describing you to a stranger, what would they say?
+
+Player- Who are you?  Not in a philosophical way, but what is your name as the player of this character.
+Gender- What's your gender?  If you have questions, uh, ask your parents.
+Height- How tall you are, either generally or precisely.  whichever you prefer.
+Age- How long you've been working at this living thing.
+Weight- You can be as general or specific about this as you'd like.
+Eye color- The color(s) of your eye(s).
+Stable genetic line- What your starting strain is or was.
+
+Motivation to adventure- Why do you leave the safety of your home to risk life and limb adventuring regularly?
+Tragic backstory- What is your backstory that led you to choose a life of adventuring and excitement over living a simple life?
+Personality- What is your personality generally like?  Do you consistently behave that way or is your personality constantly shifting based on your mood?
+Weaknesses- What are you vulnerable to?  Is it a sad story told by a pretty face?  Terrible with money?  Do you have dependants depending on you?  Or is it bees?
+
+Once your character is full of statistics you should give your character some gear to start with.  You can either begin with cold hard cash and buy what you start with or you can select an adventerer starter pack which should have all you should need to begin with.
+
+If you choose the option for cold hard cash you can either go the safe route and start off with 35 coin to spend on whatever you'd like.  Those who would like to take a riskier approach can roll a d20 and multiply the result by 5 to get the starting coin ammount.
+
+If you would rather have an easier time, you can select an equipment pack.  There are 3 options to choose from.  The explorer pack is for those who love the thrill of discovery and searching the world.  The fighter pack is for those who like a good scuffle.  The final pack is for those who have the gift of gab.
+
+Explorer pack contents
+FIXME
+Fighter pack contents
+FIXME
+Talker pack contents
+FIXME
+
+FIXME example joe and jane characters, one random, one picked.
+FIXME
+
+You can find the filled out charaacter sheets for Example Joe and Example Jane at the back of the book.  There should also be a blank sheet and a few other pre-generated characters for your use.  There may also be electronic sheets found online at FIXME .
+
+
+The final step is to actually play the game.  Find someone to run the game for you and perhaps a few other friends to run with.
+

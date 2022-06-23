@@ -1,0 +1,512 @@
+Mutations
+(1)Syrum Blood
+Heavy syrum use has changed your blood to syrum.
+Everyone wants your blood.
+Healing rate is for every round, not every day.
+
+(2) Right track DNA 
+Your DNA is starting to go on the right track, slowly turning you immune.
+Character loses 1d10 random mutations this dose.
+Character loses 1d10 random mutations this dose.
+
+(3) Typhoid Mary 
+You do not suffer any further mutations from this dose.
+None.
+You do not suffer any further mutations from this dose.
+
+(4) Unstable genetic code
+Your body is constantly changing, evolving, and mutating.
+You have to re-roll all of their mutations this dose. Including this one.
+You have to re-roll all of their mutations this dose. Including this one.
+
+(5) Cancerous 
+You are a walking tumor.
+None.
+Healing rate is for every minute, not for every day.
+
+(6) Elongated limbs 
+Your limbs are overly long and awkward.
+-1 Bones.
+May reach twice as far as normal, and you are really tall.
+
+(7) Hoofed feet 
+Your feet are cloven hoofs.
+Can not wear foot wear.
+Double damage with kicks.
+
+(8) Webbed hands and feet
+Your hands and feet have webs of skin between the fingers.
+None.
+Swimming is a breeze.
+
+(9) Ham fisted 
+Your hands are overly large, and perfect for smack downs.
+Very difficult to perform delicate tasks.
++1d10 to melee damage.
+
+(10) Extra limbs 
+You have extra arms or legs, that are without fingers or toes.
+Limbs have no fingers or toes, so can only perform basic actions, 
+-2 muscles.
+May use extra limbs to perform simple actions, character has 1d10 
+extra limbs, extra limbs have same flesh as your regular arms.
+
+(11) Ravenous flesh 
+Your flesh absorbs anything kept in contact with it for extended periods.
+Any clothing or object kept in contact with the skin for an extended period is 
+absorbed into the character’s skin.
+Most recently absorbed material gives the character’s skin those characteristics.
+
+(12) Horns 
+You have a pair of pointy horns growing out of your head.
+Can’t buy hats off the rack anymore.
+Can do a wicked head butt, +5 damage.
+
+(13) Uncovered brain
+Your brain was formed with portions of it exposed to the world.
++1 damage to attacks on your head.
++1 to stored.
+
+(14) Solid rib cage 
+Your rib cage is made of one solid bone.
+-1 action.
++75 flesh to body.
+
+(15) Snout 
+You possess an animal-like snout instead of a mouth and nose.
+-1 skin.
++1 to senses.
+
+(15) Curly tail 
+You have a curly tail growing from the bottom of your tailbone.
+None.
+None.
+
+(16) Beak 
+You have a beak instead of a mouth and a nose.
+Difficult to speak.
++1 damage with peck attack.
+
+(18) Gills 
+You possess gills as well as lungs that will work together.
+-1 action.
+May breathe water or oxygen.
+
+(19) Fish eyes 
+Your eyes are unblinking and wide-angled
+Must constantly wet eyeballs
+Hard to surprise, can see 180º degrees around self
+
+(20) Leaves and Bark
+You have leaves and thin twigs instead of normal hair and bark instead of skin.
+None. 
++70 armor.
+
+(21) Web spinner 
+You have an organ that can produce a sticky, strong string.
+None.
+May produce string that is excessively sticky and strong.
+
+(22) Metallic bones 
+Your bones are more metal than bone.
+-1 to Tendons.
++2 to Bones.
+
+(23) Cartilaginous bones
+Your skeleton is made of cartilage, instead of bones.
+1/2 Bones.
+You are very flexible.
+
+(24) Abnormally shaped bones
+Your skeleton isn't shaped as it should be.
+Suffer from constant aches and pains.
+None.
+
+(25) Exoskeleton 
+You have a skeleton on the outside.
+None.
++100 armor.
+
+(26) Leaden skin 
+Your skin has the same properties of a malleable metal.
+Sinks in water.
++150 armor.
+
+(27) Tentacles 
+You have long tentacles lined with suckers.
+Suckers hold on to what they touch.
+When grappling, target can not escape until character releases them, has 1d10 
+tentacles.
+
+(28) Abnormally large head
+You have a very big head.
+Needs really big hats. 
++1 to stored.
+
+(29) Cold blooded
+Your body can't regulate it's temperature.
+Getting too hot or cold makes you lethargic.
+Only has to eat once every couple of days.
+
+(30) Infrared sense
+You can sense the heat given off by the world around you.
+Extremes of temperature make it hard to concentrate.
+You are able to detect the heat given off by objects and people.
+
+(31) Charred skin 
+Your skin looks like an overdone hamburger.
+Suffer from constant aches and pains.
++6 armor.
+
+(32) Dense muscles 
+Your muscles are packed more tightly than usual.
+None.
++2 to Muscles.
+
+(33) Glass skin 
+Your skin is as transparent and as brittle as glass.
+Very fragile skin.
++2 to any medical skill used upon character.
+
+(34) Allergies 
+You have an overwhelming allergy to a common substance.
+When exposed to allergen, character becomes incapacitated with sneezing, coughing, and general annoyances.
+None.
+
+(35) Plastic skin 
+Your skin feels and looks more like plastic than flesh.
+Character becomes Flammable.
++45 armor.
+
+(36) Silicone flesh 
+You have a jelly like layer of silicone between your muscles and skin.
+Appears to be overweight, -1 tendons.
++20 flesh.
+
+(37) Tinted skin 
+Your skin possesses an unnatural hue or pattern.
+None.
+Makes you look cool, +1 skin.
+
+(38) Feathers 
+Your bodies' hair developed into feathers, instead of hair.
+None.
+Stays warmer.
+
+(39) Pigskin 
+Your skin is thicker than usual and covered with stiff bristles.
+None.
++10 armor.
+
+(40) Leathery hide 
+Your skin is much thicker than usual, and you could be made into a jacket.
+None.
++2 Skin.
+
+(41) Scales 
+You have hardened scales instead of skin or hair.
+None. 
++55 armor.
+
+(42) Poisonous blood
+Your blood is poisonous to everyone but yourself.
+None.
+Consuming, or having character's blood enter the body counts as a dose of Misery.
+
+(43) Hardened secretions
+Your body secretes a substance that hardens, but can be peeled away when desired.
+When it hardenes -1 tendons.
+When hardens +15 armor.
+
+(44) Breathe smoke 
+Your lungs produce a smoke with every breath.
+No smoking penalties.
+May distract enemies in melee combat, -1 from their attack skill.
+
+(45) No immune system
+Your bodies' immune system was destroyed, forgotten, or just disappeared.
+Gets sick very easily.
+None.
+
+(46) Overactive mucus production
+Your body produces far too much snot, ear wax, and spit.
+-2 to Senses, sneezes and coughs a lot
+Very resistant to diseases.
+
+(47) Arboreal constitution
+Your body and organs are more like a plant than a person.
+Healing time is every week, instead of every day.
+Double flesh.
+
+(48) No short-term memory
+Your memory consists of only long term memories and skills.
+Skills cost double to improve.
+None.
+
+(49) Retardation 
+Your mental powers are a lot weaker than other people's
+1/2 all skill levels.
++4 sub-conscience.
+
+(50) Extra fingers 
+You possess a sixth finger on each hand.
+None.
+None.
+
+(51) Natural battery 
+Your body naturally carries an electrical charge.
+Deals damage to others in water, -1 senses.
+May add +1d10 to Melee Damage when using metal weapons, or bare hands.
+
+(52) Dwarfism 
+Your body is overly short and stocky.
+-1 tendons.
++2 muscles.
+
+(53) Gigantic 
+Your body is overly tall and large.
+None.
+None.
+
+(54) Preserved 
+You will never suffer the effects of aging, nor age in your lifetime, which has a long shelf-life.
+Will stay at same age.
+Never suffers negatives due to age.
+
+(55) Overactive digestion
+Your digestive system is overactive you can feed it any substance, but you must feed it much more often.
+Must eat constantly.
+May digest anything.
+
+(56) Inherited memories
+You possess memories that your parents possessed while you were  conceived.
+Confused as to who you are.
++1 to Abstract.
+
+(57) Flavored hair
+Your hair has a particular and delicious flavor.
+You can't stop eating your hair, it's so good.
+Your hair can add zazz to boring meals.
+
+(58) Air bladder
+You have an extra organ that can hold air within your chest.
+None.
+You can hold your breath for 10+ minutes.
+
+(59) Altered perception
+You see the visual spectrum as well as the ultraviolet spectrum.
+Nothing quite looks right.
+Able to see pheromones given off by living objects, +1 senses.
+
+(60) Extra stomachs 
+You have an extra stomach or two.
+Must eat twice as much.
+Resistant to diseases.
+
+(61) Photosynthesis 
+Your body doesn't need to consume food, your skin absorbs energy for life.
+-1 muscles.
+Doesn't need to eat food.
+
+(62) Absorbs light 
+Your skin absorb all nearby light making you a black spot on the world.
+Only your skin absorbs light.
+Skin disappears into the night.
+
+(63) Blood sucker 
+You must glut yourself upon the blood of animals or people.
+Must consume full meals of blood.
+Great vampire impression.
+
+(64) Leaping 
+You may leap enormous distances easily.
+None.
+May leap Muscles x2 yards.
+
+(65) Adhesion 
+Your bare hands and feet can stick to surfaces like an insect.
+Hands and feet stick to everything.
+Hands and feet stick to everything.
+
+(66) Rotted flesh 
+Your flesh is in a constant state of decay.
+Smells bad, and looks disgusting, -1 muscles.
+Highly resistant to diseases, +1 bones.
+
+(67) Extra eyes 
+You possess extra eyes.
+None.
+Has 1d10 extra eyes.
+
+(68) Quills 
+Your hair grows to be twice as long, and hardens into sharp quills.
+Clothing and armor are awkward to wear.
+Anyone takes 2d10 damage if you are grappled.
+
+(69) Gender swap
+Your gender is switched to the opposite gender.
+You get to experience a new perspective of the world.
+You can finally explore the other bathrooms.
+
+(70) Hemophiliac 
+Your blood is missing the portion that cauterizes up wounds, making you bleed much more than normal.
+Can't stop bleeding without help.
+None.
+
+(71) Hardened nails 
+Your fingernails and toenails are much tougher than normal.
+None.
++1 damage with punches.
+
+(72) Exceptionally low body temperature
+Your body's temperature is much lower than normal.
+Anything you touch freezes.
+Immune to the elements and cold.
+
+(73) Exceptionally high body temperature
+Your body's temperature is much higher than normal.
+Anything flammable you touch catches fire.
+Immune to heat and fire.
+
+(74) Passage of death
+As you pass, plants wither and die.
+Any plants around you will die within minutes.
+None.
+
+(75) Albino 
+Your body lacks any pigmentation at all.
+You are more susceptible to skin cancer.
+None.
+
+(76) Mechanical limb
+One of your limbs is mechanical.
+No sense of touch in that limb, -1 tendons.
+Limb doesn't feel pain.
+
+(77) Overactive stomach acid production
+Your stomach produces far too much acid.
+An ulcer, which will bothers you with it’s constant heartburn.
+May vomit strong acids onto people or things, causing 2d10 damage per turn.
+
+(78) Photographic memory
+Everything you experience is recalled with unparalleled accuracy.
+None. 
++1 to Stored, may recall any details perfectly, and without any difficulty.
+
+(79) Absent minded 
+You tend to forget small things.
+You are never quite sure where your keys are.
+None.
+
+(80) Internal compass
+You can always tell where magnetic North is.
+Magnets tend to mess with your head.
+You find it pretty difficult to get lost.
+
+(81) Hollow bones
+Your bones are hollow.
+-2 bones.
+You weigh a lot less.
+
+(82) Wings 
+Your hands formed improperly, the result was a pair of leathery wings, instead of arms.
+Exceedingly difficult to use normal devices.
+Can glide for short distances, given that the character falls from high enough.
+
+(83) Clawed feet 
+Your feet are clawed and covered with leathery skin.
+Can not wear normal footwear.
++2 damage with kicks.
+
+(84) Glows 
+Your uncovered body glows in the dark
+Nearly impossible to prowl at night.
++1 senses, no darkness penalities for melee combat.
+
+(85) Receives radio waves
+You can receive stray audio radio waves.
+-1 to Senses, due to constant static, or jabber in your head.
+May pick up radio waves transmitted in the general area.
+
+(86) Permimant wound
+You have a permimant wound, it may stop bleeding, but it won't ever heal up.
+Suffers 1d10 damage that can never be healed.
+None.
+
+(87) Forked tongue 
+Your tongue is forked.
+A little hard to speak properly.
+None.
+
+(88) Color blind 
+You can not see any of the colors of the rainbow.
+Can not see colors.
+None.
+
+(89) Amnesia 
+Your memories have disappeared out of your head.
+Can not remember any personal details about self.
+Can still remember and use your skills.
+
+(90) Double jointed 
+Your joints may all bend twice as far as normal.
+None. 
+Can bend, twist, and contort with the best of them.
+
+(91) Wiry 
+You could have been a perfect "Before" for ADHD drugs.
+Hard to sit still for more than a few minutes at a time, -1 stored.
++1 action.
+
+(92) Lethargic 
+You don't like to move, at all.
+-1 action.
+None.
+
+(93) Overly aged 
+Your body aged twice as fast as it should have.
+You’re an old (wo)man.
+You LOOK wiser.
+
+(94) Mute 
+You can not speak a single word.
+Silent for forever, unless you can find a voice-box.
+If silence was golden, you'd be rich, but it isn’t.
+
+(95) Lack of taste 
+You have a tongue, but taste not.
+Can not taste. 
+None.
+
+(96) Lack of smell 
+ You have a nose, but smell not.
+Can not smell.
+None.
+
+(97) Lack of touch 
+You have skin, but feel not.
+Can not feel.
+Ignores all pain.
+
+(98) Lack of hearing
+You have ears, but hear not.
+Can not hear.
+None.
+
+(99) Lack of sight 
+You have eyes, but see not.
+Can not see.
+None.
+
+(100) Dead 
+You have cheated death by using the syrum at the last moment.
+Death is coming to rectify the mistake.
+You get to live another day.
+
+This is what the chart means
+
+Name- What the mutation is titled, as well as what result on a roll you have to get to receive the
+mutation randomly.
+Description- A brief description of the mutations effects.
+Negatives- How the mutation hinders you.
+Bonuses- How the mutation helps you.

@@ -1,0 +1,632 @@
+Gear
+Weapons
+Melee Weapons
+These are the weapons that you use in melee combat. That means using swords, chains, fists,
+feet, chairs, 2 x 4’s and any other implement that you might use to injure a person that is
+propelled by your own muscles.
+Here’s some melee weapons...
+
+Name- Shiv
+Skill- Melee
+Damage- Melee Damage +10
+Description- A fall back for anyone who can't afford any better.  Consists of something with a
+pointy bit and a not pointy bit to hold onto.  The pointy bit might also have a sharp edge to it,
+if you have the delux shiv.
+Notes- It's better than creative insults as well as your bare hands.
+Value- 36-2,116
+
+Name- Claw hammer
+Skill- Melee
+Damage- Melee Damage +15
+Description- A hammer.  Used on nails.  In a pinch can be used on heads.  People's heads, not nail
+heads.
+Notes- It has a flat part as well as a claw part.  Two sides for the price of one tool.
+Value- 64-2,601
+
+Name- Spear
+Skill- Melee
+Damage- Melee Damage +65
+Description- A popular weapon with primates, it's also one of the simpler ones available.  Typically
+consists of something sharp tied, taped, jammed, or stuffed onto the end of a long pole.  Hit the 
+target with the pointy end if you don't like them, or with the not pointy end if you do like them.
+Nothing could be simpler.
+Notes- Customizable with your choice of pointy bit to poke people with.
+Value- 536-10,201
+
+Name- Replica saber
+Skill- Melee
+Damage- Melee Damage +70
+Description- A saber from a bygone era.  It looks mean and intimidating, but thanks to it being
+a replica, it's not as tough as it should be.
+Notes- Higher chance to break with every attack.
+Value- 598-11,236
+
+Name- Fire axe
+Skill- Melee
+Damage- Melee Damage +75
+Description- An axe used by the preplague fire departments to kill fire.  Often met with mixed 
+results, the secretes of killing fire have been lost.  Still works pretty well on people, animals,
+and inanimate objects.
+Notes- Painted bright red.
+Value- 663-12,321
+
+Ranged Weapons
+Ranged weapons are weapons that are used from a distance. They send various projectiles outward 
+faster than you can throw them. If you don’t wish to see the look of pain and fear on your 
+enemies face, then ranged weapons are for you.
+
+Name- Bow
+Skill- Range
+Ammo- Arrow
+Description- A simple bow and arrow that uses the elastic principals it’s materials to send an arrow to
+the targets much faster than throwing it at people. It also happens to be a very cheap and
+effective means of arming one’s self.
+Notes- Makes a satisifying "twang" when you shoot it.
+Value- 32-10,000
+
+Name- .38 special
+Skill- Range
+Ammo- Pistol
+Description- This pistol is a good all purpose pistol. Enough stopping power to take most people and
+creatures down, but not too difficult to wield.
+Notes- Most special weapon you'll ever find.  You better treat it right.
+Value- 89-40,000
+
+Name- 30.06 rifle
+Skill- Range
+Ammo- Rifle
+Description- A nice and simple long rifle.  Bolt action is very durable and reliable.
+Notes- Preferred weapon of sharp shooters.
+Value- 164-90,000
+
+Name- Pipe Rifle
+Skill- Range
+Ammo- Shotgun
+Description- A pipe wide enough to hold a shotgun shell and a sping loaded nail to fire the rifle when 
+the "trigger" is pulled.
+Notes- A simple lead pipe with a jury rigged trigger. Hand made post apocalyptic craftsmanship.
+Value- 354-250,000
+
+Name- Spear cannon
+Skill- Range
+Ammo- Spears
+Description-Think of bow.  Now instead of shooting small arrows, imagine it shoots spears.  That's 
+a spear cannon.
+Notes- Easiest to make heavy weapon around.
+Value- 1,000-1,000,000
+
+Less Than Lethal Weapons
+Sometimes you don't want to kill a person.  Well actually hopefully you never want to kill, just are
+forced to by events outside your control.  Anyway the following weapons are designed to do as 
+little damage to the target as possible, but render them unable to fight.
+
+Name- Boxing gloves
+Skill- Melee
+Damage- 1 damage every blow.
+Description- Padded gloves worn to fight for sport instead of killing.  
+Notes- You can still type on a keyboard while wearing them.
+Value- 45-70
+
+Name- Practice sword
+Skill- Melee
+Damage- 1 damage every blow.
+Description- Sword made of wood to teach the user how to use a real metal sword.  Makes learning
+much less terrifying.
+Notes- Makes a satisfying "thwack" noise when you hit someone.
+Value- 25-50
+
+Name- Cattle prod
+Skill- Melee
+Ammo- Batteries
+Damage- 1d10 damage
+Description- A long metal rod connected to a switch and some batteries.  Hit someone with it and let
+them have a jolt from the batteries.  Usually persuades them to leave you alone.  All without killing 
+them.
+Notes- Every blow causes the target to lose 1 action on their next turn.  Also makes them rethink
+attacking the person with the cattle prod.
+Value- 435-635
+
+Name- Peper spray
+Skill- Range
+Ammo- Hot sauce
+Damage- Just feels like it damages you.
+Description- A small water gun filled with whatever spicy liquid can be found.  When applied to eyes or
+open wounds it makes the target rethink their life choices.  It also makes them cry.  A lot.
+Notes- Whenever a person is sprayed they lose 4 actions every turn for 3d10 turns.
+Value- 250-300
+
+Name- Taser
+Skill- Range
+Ammo- Batteries
+Damage- None
+Description- This is the cattle prod version 2.  Instead of a rod attached to batteries, now it's thin 
+wires.  That are spring loaded to be shot out at the target.  Once they strike the target they stick 
+until they are removed and the electricity can be applied from a distance.
+Notes- After hitting the target, user can apply electricity to make the target dance.  Will also make
+the target lose 4 actions while the electricity is being applied.
+Value- 500-750
+
+Ammunition
+Ammunition is the stuff that you can use to hurt people, but most require another item to make
+them work, like a gun.
+
+Name- Arrow
+Damage- 1d10x10
+Description-  A straight piece of wood with a sharp part at one end and feathers at the other end.
+Simplestest of the ammunition.
+Notes- DIY ranged weapon ammo.  
+Value- 32-10,000
+
+Name- .38 lead
+Damage- 2d10x10
+Description-  A small bullet for the .38 special.  Not much special about the bullet though.
+Notes- Nothing too interesting.
+Value- 89-40,000
+
+Name- Buckshot
+Damage- 1d10x20
+Description-  A popular type of ammo for the shotgun.  Makes it harder to miss what you're shooting
+at.
+Notes- Helps you hit those pesky targets.  +1 to range skill when used.  
+Value- 89-40,000
+
+Name- Slug
+Damage- 1d10x50
+Description-  Shotgun ammo used to kill large and angry things.
+Notes- Quite effective at making things less than alive.
+Value- 354-250,000
+
+Name- 30.06 jacketed
+Damage- 3d10x10
+Description-  Standard rifle bullet.  Shoots good and straight.
+Notes- Average as a rifle bullet can be.
+Value- 164-90,000
+
+Name- Spear
+Damage- 2d10x50
+Description-  A long straight hunk of metal or tough wood.  When shot from the spear cannon it has 
+a nasty habbit of impailing it's target.
+Notes- DIY heavy weapon ammo.  
+Value- 1,000-10,000
+
+Armor
+Any person who is worth their salt realizes that you can not survive a battle for very long without
+some form of protection. Protection that you wear is called armor, and it may be anything from
+a bullet proof vest, the clothes you wear, to a suit made from animal bones. Whatever it may be,
+you are probably wearing it to protect you, even if you are trying to make a fashion statement at
+the same time.
+Since every material is different in how it absorbs damage, here is the chart on what the material
+may be, and how much damage it absorbs before your character has to deal with it. 
+
+Light armor
+This is the cheapest armor that also provides the least amount of protection for you.  
+
+Name- Plain clothing
+Armor- 5
+Description- Normal clothes.  The kind you wear day to day.  Provides most bare of minimums in protection.
+Still better than nothing.
+Notes- Looks stylish at least.
+Value- 11-25
+
+Name- Hides
+Armor- 10
+Description- Thick furs and skin of large animals.  Prepared to prevent decay.  It gives a bit of protection
+from attacks, but is best against the cold in general.
+Notes- Keeps you warm when it's cold out.
+Value- 32-100
+
+Name- Reptile skins
+Armor- 13
+Description- The skins taken from snakes, aligators, and other reptiles.  Provides a little protection, also
+looks pretty sweet.
+Notes- Potentially the most awesome boots available.
+Value- 47-169
+
+Name- Padded clothing
+Armor- 15
+Description- Lots of layers of regular clothing or especially well padded clothing.  Great at softening blows
+and keeping you warm.
+Notes- Another armor that helps keep you toasty warm.
+Value- 58-225
+
+Name- Patches
+Armor- +3
+Description- Small squares of fabric to cover holes in light armor.  May or may not match the base material. 
+Could also be either scrap fabric or actual patches proclaiming various interests in music.
+Notes- Can not be used without armor.  Adds it's armor value to the armor's armor value.
+Value- 5-9
+
+Medium Armor
+This armor starts providing some kind of respectable defence against various attacks.  
+
+Name- Leather
+Armor- 25
+Description- The prepaired skins of Leathernecks.  Leather is good at repelling water, keeping you warm, and
+even protecting you a little bit.
+Notes- Standard armor most work with.
+Value- 125-625
+
+Name- Bone
+Armor- 40
+Description- The bones taken from animals, people, and fossils.  Not only protects, but also makes you look 
+much more intimidating than other armors.
+Notes- It takes quite a few bones to make a full suit of armor.  They have to come from someplace unpleasant.
+Value- 253-1,600
+
+Name- Plastic
+Armor- 50
+Description- Hard plastic can come in a variety of bright colors and shapes.  Some of them may even protect 
+you from harm.
+Notes- Can customize colors and shapes to suit your particular whims.
+Value- 354-2,500
+
+Name- Rubber
+Armor- 65
+Description- A springy substance most often taken from car tires.  
+Notes- Quite often pieced together from many smaller scraps.
+Value- 524-4,225
+
+Name- Wood
+Armor- 70
+Description- Large slabs of wood hung on your body to protect vital parts.  Can be carved and painted 
+decoratively.
+Notes- Much thicker and stiffer than a Dryad's skin.
+Value- 586-4,900
+
+Heavy Armor
+The best armor available.  Most consists of materials that were created in the pre-plague days with
+advanced manufacturing methods.  Would be great canidates for heirloom items.
+
+Name- Scrap metal
+Armor- 175
+Description- Armor created from available hunks of metal.  Usually provides a pretty solid protection
+from most sources of damage.
+Notes- Comes with tetanus free of charge.
+Value- 2,315-30,625
+
+Name- Kevlar armor
+Armor- 225
+Description- High tech fibers from the days before the plauge.  These fibers combine to make clothing that
+can stop bullets.  Highly prized for it's toughness.
+Notes- The fabric is almost comfortable.
+Value- 3,375-50,625
+
+Name- Flack armor
+Armor- 250
+Description- A brilliant person took the Kevlar clothing and put heavy metal plates in strategic locations
+to protect organs even better.  What a great person.
+Notes- Quite a bit heavier, but sturdier than Kevlar armor.
+Value- 3,953-62,500
+
+Name- Plate mail
+Armor- 300
+Description- A refined version of the scrap metal armor.  The metal is shaped and reinforced in key spots 
+to provide a great amount of protection.
+Notes- Unluckily it weighs heavily on the user and slows them down quite a bit.
+Value- 5,196-90,000
+
+Name- Demolition suit
+Armor- 400
+Description- The apex of all armors.  Combining the heavy solid nature of plate mail and the light defensive
+properties of Kevlar.  All in a big fuzzy suit.
+Notes- Extreme in it's protection, weight, and stuffyness.
+Value- 8,000-160,000
+
+Items
+The rest of the following bits of gear are the various items that a character may pickup, use, 
+hold onto, sell, or horde.
+
+Medical items
+These are items commonly used to keep a person alive.  They range from supplies used in desperation to the nearly 
+magical Syrum.
+
+Name- Syrum
+Description- The source of everyone survival, as well as their problems.  Grants the ability to live another day,
+save yourself now, or even grant temporary improvements.  The price is withdrawn as they rest after the great trials and
+tribulations.  The syrum sets out to warp the user and mutate their very bodies.
+Use- [i don't know yet!]
+Value- 1,000-10,000
+
+Name- Antibiotics
+Description- Drugs once revered for their ability to kill off germs.  It's value has gone down considerably with the 
+widespread availability of the Syrum.  Antibiotics are usually reserved for extreme poverty, isolated, or misguided 
+regions, otherwise known as Immune towns.
+Use- Each use of antibiotics will cure a single disease that a character has after they take the antibiotic and rest 
+for a day.
+Value- 50-300
+
+Name- Pain killers
+Description- Universally useful, pain killers are used to dull any pain that a person is experiencing.  
+Use- Makes the user comfortably numb.
+Value- 5-100
+
+Name- Splint
+Description- A piece of wood and some rope used to imobilize a broken or severely injured limb.
+Use- Keeps a particular limb very still.
+Value- 1-25
+
+Name- Gause
+Description- Clean and dry cloth used to stop bleeding.
+Use- Stops any blood loss.  Also helps with keeping you alive when you're wounded.
+Value- 1-15
+
+Drugs
+These are the drugs. Not just the kind that you get addicted to, but the ones that help you heal
+wounds, and the ones that can kill you.
+
+Name- Surge
+Description- A drug that makes you move with startling speed.  
+Use- Gives the user 2 extra action points per round for 10 minutes.
+Value- 75-125
+
+Name- Rage
+Description- This drug fills you with a great and furious rage.  This rage gives you enhanced strength, 
+greater speed, as well as greater toughness.  The largest drawback is how much anger it fills its users with.
+Use- Grants its users +4 to muscles, +2 tendons, and doubles the user's flesh.  The user must fight for the 
+whole duration.  They can fight foes, friends, themselves, or even their environment.  After the effects wear off 
+the user subtracts their extra flesh from what remains (even if it kills them).  Rage lasts for 2 minutes.
+Value- 500-800
+
+Name- Drip
+Description- Some drinks never go out of style.  Technically known as alcohol, drip is the drink of choice when 
+the cleanliness of water is in question.  Or when you don't want to remember the rest of the night.
+Use- Quenching your thirst and getting you drunk at the same time.
+Value- 1-25
+
+Name- Cough
+Description- The drug that makes you look cool while killing you, at the same time.  
+Use- Helps with your street cred, but makes you look foolish to older people.
+Value- 1-10
+
+Currencies
+Most regions have fallen onto a simpler barter system to exchange goods and services.  Few areas have started bringing 
+around currencies to represent wealth and simplify trading.  Values can vary from region and very rarely transfer from 
+one town to another.
+
+Name- Coin
+Description- A hunk of precious metal stamped with an image or writing to deter counterfeiting.  Easier to Cary around 
+instead of barter goods.
+Use- Exchange them for goods or services at a place that accepts them.
+Value- 1-100
+
+Name- Brass
+Description- The leftovers from shooting a gun.  Not the part that does all the damage.
+Use- Can be substituted for money with particularly violent areas.  
+Value- 15-50
+
+Name- Town notes
+Description- Scraps of paper with official seals or signatures to represent particular amount of goods or services.  
+Only works in a specific town or region.  Rarely transfer from one area to another.
+Use- Even lighter riches than coins or brass.
+Value- 1-25
+
+Name- Land deeds
+Description- Official paperwork to represent the ownership of a plot of land.  Only useful so long as the government 
+that issued it isn't overthrown.
+Use- Gives you claim to a chunk of land.
+Value- 500-1,000
+
+Name- Precious gems
+Description- Precious gems typically set in jewelry. 
+Use- Makes you look fancier than before.
+Value- 5,000-10,000
+
+Survival items
+These are items that could possibly mean the difference between life and death.
+
+Name- Refillable lighter
+Description- A lighter that you can dump any flammable liquid into to start a fire.
+Use- Become the fire starter, wicked fire starter.
+Value- 150-375
+
+Name- Rope
+Description- A length of sturdy rope.  Strong enough to hold you and all your baggage.  Long enough to get you 
+there and back.
+Use- Helps you when elevators and ladders aren't available.
+Value- 5-25
+
+Name- Flashlight
+Description- Nothing is better in dark and uncertain times than a reliable flashlight to push the darkness back.
+Use- Banish the darkness of the world.  Or at least a small circle of it.
+Value- 75-95
+
+Name- Utility knife
+Description- Is it a knife? Can opener?  Or a whole tool kit?  
+Use- Yes!
+Value- 30-145
+
+Name- Tent
+Description- An adventurer's home away from home.  Protects you from the elements.
+Use- Gives you a warm and slightly comfortable place to sleep.
+Value- 75-195
+
+Navagation aids
+Tools to help you figure out where you are and how to get where you're going.
+
+Name- Road map
+Description- A map showing the pre-plague road system.  There's a 50/50 chance that the map is still useful.
+Use- Shows you where you are, and if you're lucky, where you're going.
+Value- 50-300
+
+Name- Compass
+Description- One of the simplest of navigation tools.  It always points in the same direction.
+Use- Helps you keep on the straight and narrow path.
+Value- 15-45
+
+Name- GPS
+Description- A very sophisticated electronic device that tells you exactly where you are.  Or it should if the 
+advances satellites still functioned, roads were still usable, or the batteries still had a charge in them.
+Use- If it works it gives you the most accurate directions possible.  Otherwise it's a sophisticated paper weight.
+Value- 5,000-9,000
+
+Name- Slide ruler
+Description- This ruler measures distances and allows you to perform advanced calculations.  Think of it as a super 
+ruler or a basic calculator.
+Use- Lets you calculate distances, fuel consumption, and all sorts of other useful maths.
+Value- 5-15
+
+Name- Wrist watch
+Description- A clock you can keep on your wrist.  Tells you what time it is in either digital or analog format.
+Use- Lets you know what time it is without those pesky solar clocks.
+Value- 90-135
+
+Electronics
+
+Name- Battery
+Description- The chemical process in these produces electricity.  Just be sure to test that they still work before 
+you pay for them.
+Use- Power your electronic devices.
+Value- 100-300
+
+Name- Desktop computer
+Description- A full sized computer complete with all the accessories and cords to make it work.  You'll need a steady 
+and consistent power source to make it work though.
+Use- Capable of advanced calculations and simulations.  But you'll probably just use it to play games and waste time on 
+what remains of the Internet.
+Value- 1,000-15,000
+
+Name- Radio
+Description- A device that sends audio signals out through the air and receives radio waves that are sent out.
+Use- Allows communication over long distances.
+Value- 1,000-3,000
+
+Name- Camera
+Description- Using the power of chemistry or electricity, allows you to save a particular image perfectly forever.  
+Digital version needs batteries and the film version needs film.
+Use- Lets you take pictures.
+Value- 900-1,250
+
+Travel items
+
+Name- Binoculars
+Description- these help far away things look much closer.
+Use- Lets you peer into the distance and see much more than you would without.
+Value- 75-90
+
+Name- Sleeping bag
+Description- A bag full of you.  At least while you sleep.
+Use- All the covers you'll need to stay warm on a cold night that rolls up for convient packing away.
+Value- 15-45
+
+Name- Spork
+Description- 
+Use- 
+Value- 
+
+Name- Cooking pot
+Description- 
+Use- 
+Value- 
+
+Name- Matches
+Description- 
+Use- 
+Value- 
+
+Containers
+
+Name- Rucksack
+Description- 
+Use- 
+Value- 
+
+Name- Briefcase
+Description- 
+Use- 
+Value- 
+
+Name- Backpack
+Description- 
+Use- 
+Value- 
+
+Name- Wallet
+Description- 
+Use- 
+Value- 
+
+Name- Purse
+Description- 
+Use- 
+Value- 
+
+Foods
+
+Name- Unlabled can
+Description- 
+Use- 
+Value- 
+
+Name- Fresh berries
+Description- 
+Use- 
+Value- 
+
+Name- Jerkey
+Description- 
+Use- 
+Value- 
+
+Name- Hot sauce
+Description- 
+Use- 
+Value- 
+
+Name- Hot homemade stew
+Description- 
+Use- 
+Value- 
+
+Skill assistants
+
+Name- Fools manual for shootouts
+Description- 
+Use- 
+Value- 
+
+Name- Lockpicks
+Description- 
+Use- 
+Value- 
+
+Name- Measuring tape
+Description- 
+Use- 
+Value- 
+
+Name- Compact
+Description- 
+Use- 
+Value- 
+
+Name- Philips head screwdriver
+Description- 
+Use- 
+Value- 
+
+Luxury items
+
+Name- 2 ply toilet paper
+Description- 
+Use- 
+Value- 
+
+Name- Acoustic guitar
+Description- 
+Use- 
+Value- 
+
+Name- Brown teddy bear
+Description- 
+Use- 
+Value- 
+
+Name- (specific) game
+Description- 
+Use- 
+Value- 
+
+Name- Pepper
+Description- 
+Use- 
+Value- 

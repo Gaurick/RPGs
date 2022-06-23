@@ -1,0 +1,277 @@
+**The Rules**
+
+What kind of game would there be if there were no rules? What is to come shortly is the meat and bones of the game. It is the part that is most boring and exciting at the same time. So grab a comfortable seat dig in, because here they are.
+
+*Basics*
+Just in case nobody's taken the time to say so, here are some basic rules and information.  The first and most important thing to note is that this is a game.  The people playing are more important than the game.  As such, be kind to one another, don't be a jerk, and understand that the game is a coperative game.  Everyone, including the myth maker, should be working together to tell the story.  Finally if something in the game, story, or a person at the game makes you uncomfortable, it is your responsibility to let the myth maker, host, or organizer know that you're feeling that way.  You'll need to let them know what made you uncomfortable, but you shouldn't need to explain why.  
+
+With that out of the way here are a few notes about dice rolling ettiquette.  Everyone should be rolling where everyone else can see the rolls.  If a die falls out of sight you have to reroll it.  Ask before using someone else's dice.  You should ideally have your own set of dice and rules, but sharing won't be too bad. 
+
+Next the rules about the numbers rolled.  Once the myth maker decides on what attribute, skill, items, and helpers can be used on the roll then you gather the dice and roll.  
+The following are some clarifications.  Only one attribute is applicable for a task.  The bonus doubling from skills only applies to the attribute die, not any other parts of the roll.  You can only use an item bonus from one item.  Logic will dictate how many people can assist, but myth maker has final say.  There are situations where skills, items, or assistance can't be used.  When dividing, round down unless specified.  If you roll and get a tie with the person you're rolling against, then whoever rolled the least dice wins.  If both used the same number of dice, then whoever has the higher bonus to their roll wins.  If that is also tied, then the player wins.  If all of that is tied then the myth maker can either have a stale-mate or just decide who wins.
+
+
+*Attributes*
+The basis of any test of your character is going to take will mostly be your attributes.  Attributes represent a character's physical and mental aspects.  Half the attributes, bones, muscles, senses, and tendons, are the physical side of the attributes.  Abstract, skin, senses, stored, and sub-conscience are the mental half of the attributes.  
+Each attribute should have a particular die value assigned to it.  The value ranges between a d4 and a d20.  Most player characters won't have an attribute above a d20 as well as most NPC's.
+Whenever you are attempting a task under most normal conditions you dont need to roll any dice.  The assumption is that you have enough time, effort, and resources to retry until you succeed.  But if you are in a situation where you to perform a task and don't have ample time to move slowly, or if the task itself requires a great amount of work and energy to complete, or if the tools and/or consumables for the task are limited in uses or amounts, then you'll need to roll some dice.  Since actions in combat meet most, if not all, the requirements for a roll, most actions in combat require a roll.
+As mentioned above attributes form the basis of what will be rolled.  The "d" part of your attribute denotes "die" or "dice".  The number afterwards denotes how many sides are on the die for your attribute.
+The single attribute die can be doubled by skills, added to by items, as well as increased by assistance from your friendly helpers.  
+When a player is going to attempt an action that requires a roll, the player should work with the mythmaker to determine what attribute, skills, items, and assistance will be used for the test.  In the end the myth maker has final say as to what will work and apply to the roll.
+*Skills*
+Characters and NPC's are all able to a large variety of things.  Some are just dumb luck, others are because of actual skill, still others are because of some form of divine provinance.  
+Skills represent a threshold of knowledge or ability in a particular area.  Those who are below the particular threshold in a skill are considered unskilled in that area.  Meeting or exceeding the threshold makes you skilled in that, uh, skill.
+If you attempt an action with a skill that your untrained in then you get no benifit from skills to your attribute die.  If you're skilled then you roll twice as many of your attribute dice. 
+
+*Items*
+Whenever an item is discovered to be useful to a particular task, then you can add whatever bonuses are listed for the items.  Only one item can be used per skill test in combat.  Outside of combat you can use as many items per skill check that you can convince the myth maker would be useful.
+Each item listing will have it's effectiveness listed.  When using the item with a test you would combine the bonus with your attribute roll.  
+Some items will add extra dice to your test.  These items will have something like "+2d4".  That simply means to add 2 four sided dice to the roll.  Roll the dice and add the total to whatever is rolled for the attributes part.  The dice rolled for an item are not doubled like the attribute if you're using a skill to perform the action.
+Other items will add a flat value to your roll.  They will look like this, "+9".  Just roll as normal and add the value to the total rolled.  Once more using a skill you possess does not double the item's bonus, just the attribute's die rolled.
+Finally some exceptional items will multiply your efforts instead of adding to them.  The exceptional items are designated by something along the lines of, "x3".  The designation means to multiply the attribute roll and the possible extra skill by the number listed.  When using multiple items on a skill outside of combat, the only number that is multiplied would be your attribute and skill roll.  Other bonuses from other items as well as any possible assistance bonuses from helpers is not multiplied.
+
+*Assistance*
+FIXME No man is an island, nor are characters and NPC's.  Sometimes you can get a hand with your tasks.  When you get assistance from outside sources then the assistant uses their time to lend a hand to you.  Outside of combat this means that they spend whatever time the one performing the action is spending on the task.  In combat it means that the assistant gives up all of their actions in combat to perform the task until its done or they stop lending their aid.
+Once the assistants all lend their time and efforts to the test, the person who is performing the action rolls their dice.
+When receiving assistance, the person receiving can roll extra dice equal to the assistant's attribute for the skill.
+Before you rush off to get an army of unskilled minions to help you perform all your actions, the myth maker can and should enforce logical limits on how many can assist with a given task.  The dice roll for your assistants assistance attribute isn't doubled with skills or increased by items.
+
+*Skill Summary*
+In summary; simple, not rushed, tasks that don't use limited resources require no roll.  They are completed adequately without complication.
+If a task requires a roll then the player and myth maker figure out what attribute, skill, item, and assistance can be used for the roll.  An attribute is required for the roll and you roll whatever die you have for your attribute.  If you are trained in the skill for the task then you double the number of attribute dice to roll.  If you have an item applicable for the task then you add the bonus listed or multiply the attribute roll by the item's amount.  Finally if you have assistance with the task then you can add the assistants attribute die to your roll.
+Attribute roll 
++ extra attribute roll (if you have the skill)
++ item bonus
+or
+x item bonus
++ assistant attribute roll
+= your total roll.
+
+*Numbers to Roll Against*
+With the total of your roll now known, you might like to know if you succeeded.  The short answer is that your myth maker will provide the number you'll need to roll equal to or above to succeed.
+
+One method of test is to roll against a static number.  This is typically against the enviroment or versus non-living opposition.  The myth maker will give you a number and you will need to roll equal to or above that number to succeed.  Rolling under the number is a failure.  The myth maker section should have advice on how to come up with fair numbers to roll against as well as how to prevent the plot from grinding to a hault when players fail a roll.
+
+Another thing that will need to be rolled against is another living being.  This will often involve fighting your foes in combat, but that isn't the only time you'll oppose someone.  This happens in the same way that rolling against a number, except the number is made by a pile of dice instead of a pre-selected number.  The pile of dice are generated in the same way that is outlined above here.
+The final thing you'll roll against you won't even know you've rolled against it.  The myth maker sometimes needs a secret roll for whatever trouble they have in mind for you.  For better or worse this is a roll you don't roll.  The myth maker just figures out what dice would be rolled, then assumes that each of the dice rolled half its maximum roll. 
+
+*Attribute and Skill Combinations*
+The following are some suggestions of different attribute and skill combinations.  These aren't the only options, mostly suggestions.
+
+Bones and deceving could be used to intimidate someone with a show of endurance, such as chewing on glass.  Another combination would be bones and driving to operate a vehicle for more than a couple of hours.  A typical skill to combine with bones would be FIXME
+
+Muscles along with dodge would be blocking blows with your face.  Whereas muscles and restoration is used when healing a broken bone wound to put the bones back in alignment.  You would typically combine building with muscles to smith and forge metals.
+
+Senses combined with building would be building something small, detailed, and sophisticated.  Combining senses and insight allows you to pick out particular details that may reveal what the person actually means.  Often shooting will enhance senses to pick off targets at range.
+
+Tendons when combined with shooting would be used to clear jams in the gun.  Tendons with upkeep would be to rapidly patch your armor on the fly.  Tendons and dodge work together very well to keep you alive and safe from harm.
+
+Abstract using the persuasion skill could use an alternate approach to convince a person.  Using fighting with abstract would allow you yo analyse a person's fighting style and methods.  Insight with abstract does very well to read intentions and hidden meanings.
+
+Skin paired with enhancement would allow you to cheer to get someone pumped up.  If you used skin and sneaking you would do your best to blend in with whatever crowd you find yourself in.  Persuasion and skin are a classic pairing to get what you want.
+
+Stored can be combined with any skill to recall various facts about the skill you specify.
+
+Sub-conscience can be substituted for any attribute a particular number of times per day.  Any skill used with it would typically be a wild guess, gut intuition, or some kind of divine assistance.
+
+*Basic Combat*
+When people violently dissagree, violence typically follows.  If it comes to that then you'll find yourself in combat.  Combat begins when the threat of violence becomes a reality.  It ends when the threat becomes a lot less likely.
+When a group finds itself in combat then the following rules apply.  Generally speaking everyone participating takes turns trying to defeat each
+other.   A round is the amount of time it takes everyone to take their turns.  The next logical question is how long a round is?  It depends on how many people are fighting and taking turns.  With each turn being about 10 seconds or so each round will be between 30 seconds to a minute or so.
+
+*Haste*
+When the fighting finally breaks out it might be helpful to know what order the fighting should take place. Usually whoever starts the fight gets to go first.  Everyone else can either randomly determine their order using their haste or use group haste. 
+To randomly determine haste everyone, except for the one that started the fight, roll their haste.  Sort from highest to lowest for the order of the combat turns.
+If you'd rather have something a little easier to keep track of, you could split everyone into groups.  Generally it would be the players in one group and the foes that they face in the other group.  Once the groups are established, either allow all the participants on the side that started the fight to go first.  You could also have everyone roll their haste and compare the highest rolls of the groups.  The group with the highest roll goes first, then the group with the next highest roll.  Keep going through the groups until everyone has had a turn.  Then start a fresh round.
+*Actions*
+When in combat there are a few things you can do when it's fighting time.  Everyone has a specific number of actions they
+can use, with a minimum of one.  Particular side effects and activities can temporarily reduce actions to zero, but never below.  A list follows with some common actions you can perform in combat.  The list isn't all inclusive and some guidance for making your own actions in the advanced combat section below.
+
+*Movement*
+Getting from one place to another is a pretty innate skill, but still requires some time to do.  The following are different ways to move about while in combat.
+
+Walking action moves you at a slow and cautious pace from one place to another.  Each movement uses at least one action, but you can use as many of your actions as you'd like to move during your turn.  Rolls to walk should be extremely rare for exceptionally difficult times.  If you do need to roll to walk you'd roll FIXME.
+
+Running is similiar to walking in that you move from one place to another, but it uses two actions.  You move significantly farther than if you used two actions to walk.  If needed you can spread the action use over two rounds by spending your last action beginning to run then stopping in the next round.  Running is a little more difficult than walking, but is still a pretty inate skill of most everyone.  On the off-chance that you do need to rool to see if you successfully run, you'd roll FIXME. 
+
+Crawling and climbing are both at a very slow and careful pace. It takes only one action to crawl or climb about.  You can spend as many of your actions to crawl or climb a bit further in your turn.  Climbing may have a few more opportunities to roll for success or failure, but crawling usually  isn't tough enough to warrant a roll.  If they do require a roll then you'd roll FIXME
+
+Jumping uses one action to move you both vertically and horzontally.  You travel less than walking, but you can leap over things or hop up.  This also covers getting up after you are knocked down or if you dramatically dive to the ground.  To leap over some obstacles you may need to roll FIXME
+
+Drawing, holstering, putting away, or swapping items or weapons in your hands uses up one action.  You can perform the change with both hands for one action.  There shouldn't be any reason to roll to perform these actions.
+
+*Melee Fighting*
+Fighting up and close with weapons or your body parts is what melee fighting is.  Generally you need to be next to your target, or within the range of your weapon.  Some general moves for melee fighting are described below.  
+
+Unarmed attacks and one handed melee weapons are generally quicker and less damaging than two handed melee weapons.  To attack with a melee weapon you hold with one hand or with no weapon it takes one action.  An unarmed attack would usually use tendons with the fighting skill.  Using a single handed melee weapon usually has you roll your tendons, fighting skill, and the bonus from your nelee weapon. 
+
+Two handed weapons do more damage, but tend to be a bit slower to move.  Each swing using a two handed melee weapon in combat uses up two actions.  You can't divide a two handed melee weapon attack over additional rounds of combat.  You can either swing this turn or you can't.  You would normally use muscles, fighting and the bonus from the weapon.
+
+Less than lethal attacks are when you dont outright want to kill a person.  You can choose to use less than lethal force with melee weapons and unless specified, unarmed attacks are always less than lethal.  The process for less than lethal damage is the same as it is with lethal damage, but the end result is unconscienceness.  Instead of death.  The attack would be rolled the same way as it would be with a lethal attack.
+
+Grapple is the action to restrain a foe.  The attack goes normally, but instead of damage you remove your target's ability to act.  Grappling costs one action to grab the target.  Once grabbed it will take half of your actions to hold the target.  The target is only able to fight to get free.  You can only grapple with your unarmed abilities, weapons cannot help with your roll.  The roll being the same roll you would make make with an unarmed attack.
+
+*Shooting*
+When you attack a foe from afar then you're probably shooting at them.  The following are some rules for all that.
+
+One handed ranged weapons are usually a little easier to bring to bear on your target.  Given the difficulty and cost of ammunition, everyone spends a little more time to make sure that the shot is lined up.  As such shooting a one handed ranged weapon takes two actions.  The actions can be spent over two turns, The first turn and interrum are spent aiming.  Upon spending the second action, the shot is fired.  Universally you will roll senses, shooting, and whatever bonus the ammunition or weapon provides.
+
+Two handed ranged weapons take even more time to aim and fire.  To fire a ranged weapon with both hands takes 3 actions.  You can spend the actions to shoot over multiple turns.  The first action readies the weapon, the second action aimes it, and the final action actually shoots.  Generally you'd use senses, shooting, and the ammo plus weapon bonuses for regular rifles and such.  Heavy weapons switch things up with muscles, shooting, then the ammo/weapon bonuses.
+
+Throwing covers both thrown weapons as well as grenades.  Chucking objects at your foes only takes one action, but that's assuming that you already have the thing in your hand.  Throwing things uses your tendons, muscles, and the thrown weapon or grenade's bonus.
+
+Reloading ranged weapons is something that everyone who shoots will need to do eventually.  Putting more ammo into your ranged weapon typically takes one action, assuming the spare ammo is already in your hand.  You shouldn't need to roll to reload a weapon.
+
+*Speaking or Yelling*
+Persuasion and deception operate about the same.  Both are verbal and both are used to wear the target's will to fight down, usually without any blood.  
+
+Persuasion uses facts and logic to wear a person down.  It takes a bit longer for persuasion to wear person's will to fight down.  The benefit being that the target's outlook at the persuader usually improves as their will to fight lowers.  Since you have to pay attention to what you're saying and your target's response, each "attack" uses one action to complete.  Also to establish a repore and greet the target the first successful "attack" on a target doesn't reduce their will to fight any.  If you switch targets then you need to devote the first "attack" to the establishment of rapoire and greetings, which means it doesn't reduce their will to fight any.  To try and persuade someone to stop fighting, or any other action, you'd roll stored, persuading, and the bonuses from any items that help support your story.
+
+Deception uses lies, tricks, and the bare minimum truth to reduce a target's will to fight.  Deveiving your target doesn't require sacrificing the first successsful reduction of will like persuading does.  Deception instead typically turns the target hostile again the next time they're encountered.  If you would like to deceive your target then you would roll abstract, deceiving, and the item bonus of anything that can be used to help sell the lie.
+
+Intimidation can be used if yopu would like to threaten the use of a weapon instead of using said weapon.  The same methods could be used with your bare hands.  If you'd rather use intimidation and threats instead of using the weapon as it's intended, then you would roll abstract combined with fighting if you're unarmed or using a melee weapon or shooting if you're using a ranged weapon.  You can also add half whatever the item you're using would contribute.  
+General communication in combat can be done on your turn for no action use, so long as you aren't deceiving, intimidating, or persuading anyone.  The messages also have to be pretty short.  No roll should ever be required to speak.
+
+Enhancement skill helps your allies instead of hurting your enemies.  You use the enhancement skill as the assist part of your friend's action roll.  The action cost for enhancement varies based on what action you're enhancing.  If your cohort is performing an action that uses two actions to perform, you spend two actions to assist them.  Once your actions have been spent then you roll FIXME .  Whatever you roll is added to the action that you're enhancing as an assistance bonus.  You must declare the person you're enhancing and how many actions are being dedicated to the assist.  The enhancement can't be transferred and if the enhancement bonus isn't used before the beginning of the enhancer's next turn, the bonus is nullified, expired, un-used, and otherwise lost.
+
+*Out of Order*
+Some actions can be performed when it's not youur turn.  The following describes those actions.
+
+Dodge tries to get you out of harm's way before you're harmed.  Since you dont often get attacked on your turn you dodge on other people's turns when they attack you.  With you acting out of turn the actions you use come from your next turn.  Dodging only works for physical attacks against you, dodging words doesn't quite work.  Each attack that you dodge uses one action from your next turn.  You can't dodge more attacks than you have actions in one round.  To avoid damage by dodging you roll tendons as well as your dodge skill.  There aren't any items that can help you to dodge.
+
+Insight is another way to use your action points from the next round to avoid losing your will to fight now.  Whenever someone tries to deceive, intimidate, or persuade your mind to their way of thinking you can resist changing by using an action point from next round.  You can only use up to your maximum action points for reading what your foe means when they talk to you.  To inspect the truth of yyour opponent's words you'd roll your abstract attribute as well as your insight skill, if you have it.
+
+Saving for next turn is another way you can act out of turn.  You can delay your turn until after anyone else has taken their turn until the end of the round.  You must declare who you are going to go after instead of taking your turn.  Once that person goes then you take your turn normally.  You must go before the end of the round and any unused turns or actions do not carry over to the next round.
+
+*Loss of Will to Fight*
+Will to fight is the overall mechanical representation of how invested your character or the creatures you're fighting are invested in the fight.  It's a combination of physical damage a person can withstand, how mentally resistant they are to lies and bribery, as well as how much they're invested in the actual fight.  Low will to fight could represent a frail person, a gulible foe, or a soldier for hire looking for a quick and easy payday.  High will to fight could represent a foe with robust constitution, someone who is very good at reading deceptions for what they are, or a zealot who fights for what they believe in.  As a creature's will to fight gets lower and lower they are less invested in the fight, either due to injury, convincing to stop fighting, or outright intimidation.  Once someone is down to 0 will to fight, they can no longer participate in the fight anymore.  Their fate depends on what reduced them to zero will.  Violent actions will kill, maim, or if specified knock out.  Persuasion will bring someone to your your side, at least until they are able to think about it.  Deception will not be seen through until the target can reflect or fact check.  Intimidation will keep your target pacified until they get a chance to recop.  The following describes how to mitigate reductions to your will to fight.
+
+Armor is the default and passive way to try to mitigate physical damage.  To try to lessen physical damage with your armor you'd roll your bones and add any bonuses from your armor.  There isn't a skill that can be used and you can't get help from friends.
+
+Dodge is the active method of avoiding physical damage.  As described in the actions dodging consumes actions from your next turn.  The description above also mentions that items aren't able to help you dodge damage.  What can help you dodge would be your tendons attribute and your dodge skill.
+
+Ignore is the passive way to avoid verbal damage.  You do it by not paying attention to what foes are saying to you.  No effort needs to be spent on ignoring.  To ignore what's being said to you, you'd roll senses and add any bonuses from items that could help you.  Unluckily there isnt a skill that can help you to not listen, nor can your allies help you not pay attention.
+
+Insight is the active method for avoiding verbal damage to your will to fight.  Much like dodge you sacrifice actions for your future turn to read the truthfulness of your enemies' words against you.  To cut through the verbal attacks you would roll abstract combined with the insight skill.  Much like dodging items and others can't help you with your insights.
+
+Now that attacking, verbally or physically, and defending have been covered it's time to combine them to see if there's a reduction to the targets will to fight.  
+
+In a fight the attacker rolls their attribute increased by a skill and enhanced by their weapons and items.  The defender tries to either actively or passively resist the reduction of will with the specified attribute, skill, and possible items.  Once all the dice are rolled, the totals are compared.  If the defender has the higher roll or the roll is a tie, then nothing happens and the defender's will to fight remains at its current level.  If the attacker's roll is higher, then the defender loses will to fight points equal to the amount that the attacker won by.
+
+*Combat Demonstration*
+step by step fighting for a round or two FIXME
+
+*Making Up Actions*
+Here are some more advanced rules for making up actions.  Use them as necessary or ignore their existance if you dont like them or they dont work for you.
+
+Long actions that take place in combat have a few options on what to do.  You will either need to use consecutive actions over multiple turns if its an action that you can't take breaks from.  If you can take breaks then the actions don't need to be consecutive or even completed by one person.  Finally some actioms take too much time, effort, or concentration to do in the heat of battle.  Those actions will need to be done when tensions aren't so high.
+
+Weird actions should be determined by the myth maker.  Each turn takes about 10 seconds and each action takes between 1 and 3 seconds.  Using those guidelines take the best guess on how much time and effort it would take.  Try to be consistent and fair.  Above all else, remember it's a game and make it up.
+
+*Out of Combat*
+Sometimes you may wish to persuade, deceive, or intimidate someone without fighting them.  When that is the case, you would roll a normal test of the relivant attribute, skill, item, and possible assistance bonus.  The person you're debating with resists as normal.  
+Ties mean a stalemate for both sides.  If one side wins by 5 or less, it's a small victory which will probably have concessions from both sides.  A win by 5-10 is a definate victory for one side.  The losing side may be able to sneak in a term or two of their own, but nor much else.  If a side wins by 11-15 it's a very clear victory for the side that rolled so well.  16-20  is a pretty impressive win with the losing side having to give up something, or lose face, or suffer a penality.  Anything above 20 is such a win for the winning side, the defender shouldn't have wasted time attending.  The loss is complete and total for the side thaat rolled so poorly.
+
+Assassination is the art of killing someone unexpectedly.  If you can catch your foe unaware and have plenty of time to line up your blow, it's bad news for your target.  You can ignore all of you're foe's defenses and roll the attack's damage by yourself.  The damage is fully applied to the foe's will to fight with no armor or dodging possible.  If your blow reduces the target to zero will knock your foe out or disable them.  If the damage of the attack is more than all of the target's will to fight, then the target is instantly killed.  No saves, mitigations, or anything short of the myth maker's intervention will prevent death.
+
+*Negative Conditions*
+In addition to reducing a person's will to fight with damage, words, and threats there a few other methods to end a fight.  Here's some rules about those.
+
+Tying up is useful when you need a person unable to do much of anything to you when they get a chance to.  If done to someone who's lost all of their will to fight and there isnt a particular time crunch, then it's just automatically done well enough that the target can't reasonably escape.  If there's a time crunch or the target is resisting, then you would roll FIXME.  If you find yourself tied up, then you would roll FIXME to get out.
+
+Knock down or cognative dissonance happens when your will to fight is reduced by a large amount in a single action.  If your receives physical damage that is equal to a quarter or more of their will to fight, then they are knocked to the ground by the force of the blow.  On your turn you can stay on the ground or get up as normal.  If a character is dealt  a verbal blow that equals a quarter or more of their will to fight then they have to deal with cognative dissonance between the things said versus what ideals are held.  Until a character takes an action to resolve the dissonance they can't use insight to resist verbal assaults, they can only ignore them.
+
+Coup de grace is the mercy killing of a mortally wounded creature.  A coup de grace can only be done against an unconscience, fully tied up, or incapacitated foe.  You also need to have some sort of melee weapon, be next your foe, and have enough time to line up your blow.  If all the necessary conditions are met, then the coup de grace kills your foe.  Instantly with no roll necessary.  Fully kill, not incapacitate, knock out, or anything else.
+
+Fire is a  rather uncomfortable thing.  It doesn't matter the source of the fire, be it natural or artificial, the effects are pretty similar.  If you find yourself on fire, the only thing you can do on your turn is to flail to try and put out the flames.  You roll either tendons or muscles to put out the flames.  Skills nor items will help you, but your cohorts can lend a hand.  To put the flames out the myth
+maker rolls a d6 and you have to roll equal to or above the number rolled.  The myth maker rolls a new difficulty number each round.  Success puts the flames out.  Failure wastes the turn and the person burning takes a loss of will to fight equal to the difficulty they couldn't roll higher than.
+
+Radiation is odorless, colorless, silent, and unflavored.  It usually comes from rare rocks or from pretty particular advanced scientific devices that are malfunctioning or are damaged.  Receiving radation depends on how strong the source is as well as how long you spend with it.  Once you have received a large enough dose of radiation to suffer the ill effects, the only way to recover or reduce your penalities from radiation is to use the syrum or find another uncoventional cure.
+Small dose usually comes from very brief interactions with an exceptional source of radiation
+(a few seconds at most) or long term exposure to a weak source of radiation (at least a month or two).  When you're inflicted with a small dosse of radiation you roll one less die every time you roll dice.  You will still roll a minimum of one die whenever you roll dice.  A single dose of syrum should clear up the penalities of the radiaation, or some minor scientific intervention.
+Large dose of radiation will severely hamper your character.  You receive a large dose of radiation whenever you spend a short amount of time near an exceptionally strong source of radiation (a minute or so to an hour).  Spending a long time with a moderate source of radiation (a few weeks to a month) will also give you a large dose of radiation.  While you are suffering a large dose of radiation you can only roll half the dice you would normally roll.  You still roll a minimum of one die when you roll dice.  A single dose of syrum won't fully cure your symptoms, but it will reduce them to the a small dose.  If you're going to rely on some sort of scientific intervention, it will require a substantial effort to negate or reduce.
+Massive dose of radiation is bad news.  Receiving a massive dose of radiation typically happens with lifelong exposure to low to moderate sources of radiation or brief exposure (moments or up to an hour at most) to a gargantuan source of radiation.  Once you have a massive dose of radiation you can only roll one die for any activity that requires you to roll any dice.  You also become a low source of radiation to those around you.  If you use the syrum to cure yourself, it will at least reduce you to having a large dose of radiation.  Those hoping science will save them will require a fantastic scientific intervention to reduce or cure your radiation sickness.
+
+Crippled limb is when a foe targets a specific limb of your body and deals FIXME damage or more. Each limb has a particular hampering that happens when it's crippled.  Curing a crippled limb requires FIXME.
+One leg being crippled prevents your character from being able to run.
+Two legs crippled and you are prevented from running and walking. You can only crawl on the ground.
+One arm being crippled prevents you from using two handed melee and ranged weapons.  You're brawn is cut in half.  Finally you are unable to perform tasks that require two hands.
+Two arms being crippled prevents you from using any weapons, be they one handed, tow handed, melee, or ranged.  It also prevents you from taking most actions and skills.
+Head crippling prevents you from making any verbal attacks and halves any rolls you make using a mental attribute.
+
+Blinded happens when you are either in deep darkness or when you are injured in your eyes.  When you're blinded your senses are reduced two steps.  You also only use 1/10th of the roll you make with any ranged attacks.
+
+Deafened makes it difficult to hear what's going on around you.  Being deafened reduces your senses by two steps.  You also only use 1/2 of any verbal attacks you roll.
+
+Exhaustion is when you push your character's body further than normal with less resources than what it needs to survive.  If you go without sleep for 3 days, water for 2 days, food for 5 days, or break while traveling for 1 day, you begin to be exhausted.  All of your attributes are reduced by one step until you get a full serving of the thing you lacked.  If another time interval passes without the basic resource you need, the attribute reduction is increased by another step.  If you go without multiple resources for their interval the exhaustion attribute reductions stack.  If an attribute is reduced to a zero, and if you don't immediately get your missing resource, you collapse from exhaustion, unable to take any actions until you receive the resource you need.  If you manage to aquire what you're missing then you lose all your exhaustion as well as all of your will to fight.  Will to fight is restored normally.  If you aren't able to get what's needed after another time interval passes, you die.
+
+Range is important for ranged weapons.  Each ranged weapon has different ranges that they work well at and won't work well at.  The distances are defined below, the bonuses and penalities are listed in the item's description.
+Point blank you can smell the target's breath
+Short you can make out facial details of the target.
+Moderate You can tell the type of clothing on your target.
+Long you can just about see the difference between your target's limbs.
+Extreme you can actually see target.
+
+Background events represent a forboding sense of dread that works to help everyone get over their differences.  Events such as ticking self-destruct systems for the base you're fighting in, erupting volcanoes, fast approaching armies not affiliated with either side, or any other event that everyone knows about and won't discriminate in who is killed.  Background events reduce everyone's will to fight an equal amount at the beginning of every round.  The amount is usually small, but constant until the event happens or the fighting turns into everyone running away when the will to fight runs out.  The amount of will to fight reduction is constant for all involved in the fight.  It can range from a static 1-5 points of will to fight or be a variable die roll typically d4, d6, or in extreme cases a d10.
+
+*Restoring Will to Fight*
+The following section will give the rules to bring the fight back into a person when they've lost some or all of their will to fight.  Remember that will to fight is how invested you are in fighting, not just your actual life force.
+
+Fighting death and apathy is tricky.  When a character is reduced to zero will to fight, then you are no longer able to fight; be it because you've been persuaded to see another way your life could go, deceived into ignoring basic facts, pummeled unconscience, or beaten to the doorstep of death.  When you're at zero will to fight you are unable to fight until you recover some naturally, someone uses restoration on you, or the syrum restores you.  
+If you continue to be attacked when at zero will to fight then each attack is resisted as normal.  If damage is done then roll the die for the attribute you used to resist.  If you roll equal to or above the number of times you've been attacked at zero will to fight, you manage to hold on through the attack.  If you roll below the nu ber of times you've been attacked at zero will to fight, you're done fighting for good.  You either die, go into a coma, lose the will to fight ever again, rethink all of your life decisions, or something along those lines.  The only thing to do is make a new character.
+
+Restoration skill can restore some will to fight or cure a particular condition.  Both restoring will to fight and curing conditions are pretty similiar, but the numbers you have to roll equal to or above are a bit different.  
+To restore will to fight, you must spend two of your actions in your turn to attempt to increase a person's will to fight.  You roll your abstract, restoration skill, any item bonuses that apply, and any friendly assistance.  That number is compared to the amount of will to fight that the target is missing.  If the roll is higher than the target recovers will to fight equal to how much more the roll is than the missing will to fight.  The amount of will to fight can't exceed the target's maximum will to fight.  Rolling below the missing will to fight uses up the actions, consumable items, and assistance with no effect.
+Curing a crippled limb uses the same attribute and skill as restoring lost will to fight and can include assistance if someone is willing to lend a hand.  The items used will need to be actual medical supplies, motovational items will not help.  To cure a crippled limb you must use 4 actions and roll equal to or above 10.  Success cures the crippling and removes the penality, but doesn't restore any will to fight.  Failure uses up the actions, consumables, and assistance.   
+
+Natural healing is as cheap as free, mostly.  All you need is food, rest, and a safe place to hide.  For every day you rest, eat, and do little more else you can roll both your abstract and your bones dice.  Whatever you roll is added to yoour will to fight.  If someone is giving you medical care or mental comfort, or extended aid they can make an abstract, recovery, with whatever items and staff bonuses are applicable.  If the roll is above the amount the recoverer rolled, then the excess is added to the amount they recovered.
+
+The syrum is the best and worst way to heal a person.  It's recooperative abilities are well known and desperately used.  Just knowing how powerful the restoration is fills you with confidence to take on your foes with renewed gusto.  It knits back any damage or penalities you experience and can even bring someone back from the brink of death.  Unluckily the next day the toll comes due.  After each use, once you take a rest your body warps, mutates, and changes.
+Using the syrum in combat takes all of your actions for the turn.  The actions used includes retreiving the syrum and administering it.  After you spend the actions all of your will to fight is restored, any crippled, blinded, and deafened conditions.  The syrum will also reduce your radiation down a level.  During your next rest your character's body will begin changing and mutating.  You awaken in the morning with d10 new mutations.  The mutations could be randomly determined by rolling or the myth maker can assign muitations that fit the events that happened over the previous day.
+
+Taking a break while adventuring can help you tpo recover some will to fight if you're lacking the gumption to finish the task you're there to complete.  It takes a minimum of one hour of rest with no activity other than dozing, eating, or keeping watch.  If the hour is interrupted then you have to restart the hour minimum clock.  At the end of the hour you can roll either your bones or your abstract.  Once you roll either attribute, you can't use that attribute again until you rest for at least 8 hours in a safe place.  Assistance as well as the restoration skill can be used, but the person assisting or restoring doesn' get the benefit of a rest.
+
+*Travel*
+Often you'll find yourself needing to go from one place to another.  Here are some rules to guide your trip.
+
+Distances are separated into near, moderate, and far.  
+Near distances are ones you can cover in one day or less.  For walking that's usually to locations within your on the outskirts of your town.  By muscle powered vehicles its usually the next town over, or any nearby towns.  Using a powered vehicle, its near distance is typically anything within the local region.  Trips that are within the near distance typically don't need any preperation to complete.
+Moderate distances are those distances that require a few days, but less than a week's travel to complete.  On fool that would be to any nearby towns.  Via muscled vehicle it will take you anywhere within the region you're in.  With a powered vehicle you can travel to the next nation.  To make a moderate distance trip you will need to plan a route and bring at least a few provisioons on the trip.
+Far travels typically take over a week and can take as long as necessary.  The distance you can travel is only limited by how long you're willing to keep going and by you're supplies.  Speaking of on a long trip of this nature you'll need lots of supplies, accurate maps, and navigational tools.  Or a lot of luck.  
+
+Pace is how fast you and your party travels, while traveling.  You can only move as fast as the slowest person in the traveling company.  You can travel at one of three paces, slow, regular, and fast.
+A slow pace allows you to do two of the following things: move about stealthily, forage for food and water, search for unusual locations, or keep watch for attacks.  Moving at a slow pace adds an extra half of your travel time onto the amount of time you need to travel.
+Regular pace is the defaultt pace that you would normally move at.  While moving at a normal pace you can do one of the following actions: sneak around, forage for food and water, keep an eye out for interesting sights, be on the lookout for danger.  Regular pace is the standard pace, so travel times are figured out at a normal pace.
+Fast pace is about moving as fast as possible without exhausting yourself.  While moving at a fast pace the only thing you can do is move.  But moving that fast allows you to make the trip in 3/4 the normal pace's time.
+
+Sneaking involves moving about in a way that keeps you from being noticed by anyone you pass.  To move stealthily as a group each person in the group rolls FIXME .  After everyone rolls, the total is added together then divided by tthe number of people in the group for the group's average roll.  That is what is compared to the local's rolls to spot the group.
+
+Foarging is gathering supplies for living.  Unless you're in an area of scarce resources, or the myth maker says so, everyone is able to gather sufficient things to eat and drink for the day while moving along the trail.  If the myth maker does require you to roll to find sustinence you would roll FIXME .
+
+Searching for locations has the cohort on the lookout for any areas that may be worth investigating either on the trip or aat a later date.  The locations are typically found automatically by the party, but concealed locations or ones that are further than moderate range away you may need tttto roll FIXME .
+
+Watching for danger is the action to make sure that you aren't surprised by troublemakers.  Watching out for trouble everyone rolls FIXME , adds it together, then divides by the number of people in the group.  The average is compared to the creeper's sneaking roll to try and spot them before they can do whatever they had in mind. 
+
+Navigation is how you get from one place to another with minimal distractions from the trip.  If you're equiped with a a map that's vaugely accurate, a compass and an idea of destination's direction, or at least some well meaning directions, you can generally make it to your destination without any rolls.  On the other hand if your map is wildly innaccurate, the directions are rambling and terrible, the location has been hidden away, or the myth maker just wants it to be tricy, then you may need to roll FIXME.  Success gets you to your destination, or at least close enough to arrive there. Failure results in you losing your way and you'll need to find out were you are and how to adjust your route to get to where you're headding.
+
+Setting up camp is only needed if you're planning on staying in a particular location for at least one night.  You can setup a camp from scratch by rolling FIXME.  If you'd rather find an existing location that would work to camp at for the night, then you would roll FIXME.  The results of the roll determines how good of a camp you're staying at for the night.
+0-5 Location unfit for anything but a nervous terrible night of sleep.  Also you'll probably have visitors in the night.
+6-10 Pretty comfortable for the night.  So long as you take shifts to watch for visitors, you should get a pretty average night of sleep.
+11-15 Very comfortable, almost like home.  Either using inspired construction techniques or finding a real good location, you find a restful place to sleep for the night.
+16-20 Vacation location.  The campsite is all you could ask for.  Secure, comfortable, great temperature, dry, perhaps even with a source of drinkable water or edable food.
+20+ Ultimate comfort.  Mark well this location.  It's got everything you could hope for and a bunch of things you didn't realize you needed or wanted. 
+
+*Vehicle Rules*
+Walking from one place to another is fine for short distances, but if you need to go great distances, you should probably find a vehicle of some sort or another.  The following lets you know how they work.
+
+Operating the vehicle is typically an easy enough activity.  Under normal conditions you are able to control your vehicle well enough without having to roll to move around.  If you do find yourself in a situation where things are risky enough to roll dice to keep control of your vehicle, you would roll FIXME.	
+Armor on vehicles operates the same as it does with characters, but thanks to vehicles and their abilty to easily carry heavy weights without complaint, you can put up to two separate armors on vehicles for each location.  The layers dont need to be made of the same material.  If the location is attacked roll the armor for both layers of armor while rolling to defend from the attack.
+
+Damaging Vehicles
+
+Weapons
+Vehicular Maneuvers
+Crashing
+Ramming
+Fuel Consumption
+ZZZ

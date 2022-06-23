@@ -1,0 +1,716 @@
+Cookie Cutter Villains
+The following are a slice of the possible people that the characters could run into. They are
+made with their major purpose in being cannon fodder for bored characters. But with some
+tweaking and a little imagination they could be used to fill in any role that may be required.
+Here they are, the cookie cutter villains.
+
+Marauder
+There are two types of people in the world, those that work for a living, and those that steal 
+from the people that work for a living. Marauder fit into the second category. They tend to 
+roam the countryside like a plague of locus. They also usually follow a single powerful leader 
+and are broken down into smaller groups that are assigned specific tasks based on the skills of 
+the people in the given group.
+
+Title- Marauder 
+Strain- Freak
+Mental              Physical
+Abstract- 1         Bones- 3
+Learnable- 2        Metabolism- 3
+Senses- 4           Muscles- 4
+Stored- 2           Skin- 5
+Sub Conscience- 2   Tendons- 5 (with secretions)- 4
+
+Location    Flesh Blunt                 Laceration            Piercing
+Head        6     2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Left Arm    15    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Right Arm   15    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Body        60    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Left Leg    30    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Right Leg   30    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+
+Combat Training- Military
+Initiative- 4 Actions- 5 (4) Melee damage- 2d10
+Moves- Punch (2d10), kick (6d10), grapple, KO (1d10).
+Mutations- Tinted skin, breathe smoke, extra fingers, hardened secretions, hemophiliac.
+Skills- Prowl- 40%, Dodge- 35%, Unarmed- 40%, Large Melee Weapons- 40%, Archery- 40%, 
+Basic Medicine- 20%
+Equipment- Well tattered clothing (all locations), ratty boots, axe (2d10+30), bow, 2d10 arrows
+(1d10x2), Bag.
+Coin- $ 1d10x10
+Notes- May distract opponent in melee combat by breathing smoke in their face, blood does not
+cauterize on it’s own.
+
+Marauder Leader
+These are marauders that have survived for some time. They pretty well know how to pillage
+and raze the country side. Marauder leaders are mostly in charge of groups of marauders that
+vary in size, but usually are from 3 to 15 strong.
+
+Title- Marauder Leader 
+Strain- Boar
+Mental              Physical
+Abstract- 4         Bones- 4
+Learnable- 3        Metabolism- 5
+Senses- 4           Muscles- 4
+Stored- 3           Skin- 1
+Sub Conscience- 3   Tendons- 4
+
+Location    Flesh Blunt Laceration  Piercing
+Head        8     145   340         125
+Left Arm    20    145   340         125
+Right Arm   20    145   340         125
+Body        80    145   340         125
+Left Leg    40    145   340         125
+Right Leg   40    145   340         125
+Tail        8     145   340         125
+
+Combat Training- Military
+Initiative- 4 Actions- 4 Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Snout, curly tail, pigskin, dwarfism, gluttonous.
+Skills- Prowl- 50%, Dodge- 60%, Small Melee Weapons- 60%, Archery- 60%, 
+Basic Medicine- 40%
+Equipment- Various car body pieces (all locations), well tattered clothing (all locations), boots,
+night stick (2d10+5), crossbow, 4d10 quarrels (1d10x2), bag.
+Coin- $ 1d10x50
+Notes- Must eat constantly.
+
+Marauder Commander
+When you combine charisma, years of conflict, a great lust for conquest, and a group of minions
+willing to die for you, you get a marauder commander. These are the people that manage to live
+through enough of the horrors of the world to inflict some horrors of their own. Armed with
+only the best spoils of their campaigns and harden by years upon years of fighting they make for
+very fearsome foes in combat.
+
+Title- Marauder Commander 
+Strain- Bot
+Mental            Physical
+Abstract- 4       Bones- 8
+Learnable- 3      Metabolism- 3
+Senses- 3         Muscles- 6
+Stored- 3         Skin- 2
+Sub Conscience- 1 Tendons- 5
+
+Location  Flesh Blunt Laceration  Piercing
+Head      16    52    258         172
+Left Arm  40    100   300         770
+Right Arm 40    100   300         770
+Body      160   100   300         770
+Left Leg  80    52    258         172
+Right Leg 80    52    258         172
+
+Combat Training- Military
+Initiative- 3 Actions- 5 Melee damage- 2d10 (3d10 with metal)
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Metallic bones, leaden skin, natural battery, mechanical limb (left arm), receives
+radio waves.
+Skills- Prowl- 40%, Dodge- 60%, Unarmed- 60%, Large Melee Weapons- 60%, Archery-60%, 
+Basic Medicine- 30%
+Equipment- Flack jacket (left arm, right arm, body), well tattered clothing (all locations),
+combat boots, spear (2d10 +25), spear cannon, 1d10 spears (3d10x2), brief case, bag.
+Coin- $ 2d10x100
+Notes- Can not feel anything in left arm, receives random radio waves in area, deals 1d10
+damage to others in water, sinks in water.
+
+Scavenger
+With all of the death and destruction that has befallen the world, there lies a great and many
+technological goodies lying around to be discovered by anyone who is industrious enough to
+search for it. Those that search the ruins of the world for odds and ends to sell off are called
+scavengers. Scavengers usually only attack when they are either cornered, or they think that they
+can easily defeat whomever they encounter. On average they are dirty, mismatched, and
+equipped with salvaged equipment.
+
+Title- Scavenger 
+Strain- Rotter
+Mental            Physical
+Abstract- 4       Bones- 2
+Learnable- 3      Metabolism- 1
+Senses- 4         Muscles- 3
+Stored- 5         Skin- 1
+Sub Conscience- 4 Tendons- 3
+
+Location  Flesh Blunt Laceration  Piercing
+Head      4     100   60          40
+Left Arm  10    100   60          40
+Right Arm 10    100   60          40
+Body      40    100   60          40
+Left Leg  20    100   60          40
+Right Leg 20    100   60          40
+
+Combat Training- Knife Fighting
+Initiative- 4 Actions- 2 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- Cancerous, preserved, rotted flesh, passage of death, glows.
+Skills- Prowl- 50%, Dodge- 55%, Unarmed- 55%, Small Melee Weapons- 55%, 
+Support Firearms- 35%, Basic Medicine- 20%
+Equipment- Wooden body suit (all locations), switch blade (1d10+3), flame thrower,3 bottles of
+very strong spirits (1d10x1d10), duffel bag, first aid kit, shovel, map (50% chance of it being of
+the current area), binoculars.
+Coin- $ 3d10
+Notes- Immune to radiation, spreads diseases, no penalties to melee combat in the dark, kills
+nearby plants, can’t prowl at night.
+
+Wanderer
+Civilization isn’t always for everybody. With the great expanses between cities, it is very possible
+to wander about for months without any contact with a single person. This life style is very
+attractive to quite a few people. Those that roam the countryside traveling from town to town
+would fit into this category. What few items that they possess are usually very sentimentally
+valuable to them, and very well worn.
+
+Title- Wanderer 
+Strain- None
+Mental            Physical
+Abstract- 2       Bones- 4
+Learnable- 2      Metabolism- 4
+Senses- 4         Muscles- 4
+Stored- 2         Skin- 4
+Sub Conscience- 8 Tendons- 4
+
+Location  Flesh Blunt Laceration  Piercing
+Head      8     125   300         125
+Left Arm  20    125   300         125
+Right Arm 20    125   300         125
+Body      80    125   300         125
+Left Leg  40    125   300         125
+Right Leg 40    125   300         125
+
+Combat Training- Town Guard
+Initiative- 4 Actions- 3 Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Gills, web spinner, gigantic, inherited memories, extra stomachs, passage of death,
+glows, double jointed.
+Skills- Prowl- 20%, Dodge- 25%, Unarmed- 30%, Rifles- 40%, Basic Medicine- 40%
+Equipment- Animal hides (all locations), corrugated iron (all locations), .223 rifle with scope,
+1d10 .223 jacketed bullets (1d10x10), backpack, pack of cigarettes, binoculars, sun glasses, razor.
+Coin- $ 2d10x10
+Notes- Is very flexible, can create a very sticky and strong web, doesn’t suffer darkness penalties
+for melee combat, can not prowl at night, can breath both air and water, must eat twice as much
+as a normal person, plants wither and die nearby, is confused about who they really are.
+
+Primate
+This is actually a derogatory term for the people who live in communities that have exceptionally
+low levels of technology. They tend to be superstitious, easily confused, and quick to anger.
+What they lack in technology they more than make up for with their proficiently with the more
+basic items and weapons of the world.
+
+Title- Primate 
+Strain- Wretched
+Mental            Physical
+Abstract- 3       Bones- 3
+Learnable- 2      Metabolism- 3
+Senses- 4         Muscles- 4
+Stored- 2         Skin- 1
+Sub Conscience- 4 Tendons- 5
+
+Location  Flesh Blunt Laceration  Piercing
+Head      6     16    40          24
+Left Arm  15    16    40          24
+Right Arm 15    16    40          24
+Body      135   46    60          24
+Left Leg  30    16    40          24
+Right Leg 30    16    40          24
+
+Combat Training- Primitive
+Initiative- 79% Actions- 4 Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple (2d10), KO (1d10).
+Mutations- Cancerous, elongated limbs, solid ribcage, abnormally shaped bones, double
+jointed.
+Skills- Prowl- 35%, Dodge- 25%, Unarmed- 30%, Large Melee Weapons- 25%, Throw- 35%, 
+Basic Medicine- 40%
+Equipment- Tanned leather (All locations), Studded leather (Body), Spear (2d10+25), Rock
+knife (2d10+3), Flint
+Coin- None
+Notes- Healing time is every 5 minutes, double normal reach, very flexible, is in constant pain.
+
+Towns person
+If two people run into each other while walking through the hazardous world, chances are that
+they will walk together for protection. If two groups of people run into each other, then chances
+are that they will start a town. Towns typically have some form of protection, such as animals,
+trained and armed guards, and/or walls. These are the standard people that go on about their
+day to day activities not particularly caring to go out and adventure, quest, or even leave the
+safety of their towns.
+
+Title- Towns Person 
+Strain- None
+Mental            Physical
+Abstract- 2       Bones- 3
+Learnable- 2      Metabolism- 2
+Senses- 2         Muscles- 4
+Stored- 2         Skin- 2
+Sub Conscience- 5 Tendons- 2 (with secretions)- 1
+
+Location Flesh  Blunt                 Laceration            Piercing
+Head      6     2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Left Arm  15    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Right Arm 15    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Body      60    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Left Leg  30    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+Right Leg 30    2 (32 w/ secretions)  8 (28 w/ secretions)  2 (22 w/ secretions)
+
+Combat Training- Untrained
+Initiative- 2 Actions- 2 (1) Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Hardened secretions.
+Skills- Prowl- 20%, Dodge- 25%, Unarmed- 20%, Small Melee Weapons- 13%, Basic Medicine- 35%
+Equipment- Dark blue jump suit (all locations), boot knife (2d10+8), razor, bottle of gin,
+wallet.
+Coin- $ 1d10
+Notes- None.
+
+Town Guard
+Towns are very tempting targets for raiders, marauders, and any other unsavory type of person
+that wishes to make a quick and easy profit. To keep towns from being scrubbed off the face of
+the earth, towns either train or hire people to guard their towns. These guards are usually young
+people from the town that are hastily trained and equipped, or they are old and worn out
+adventurers that want to settle down. Whichever they are, they aren’t very intimidating alone.
+It’s their numbers and the defenses that they fight from that make people think twice about
+razing the town to the ground.
+
+Title- Town Guard 
+Strain- Sinect
+Mental            Physical
+Abstract- 2       Bones- 6
+Learnable- 2      Metabolism- 2
+Senses- 3         Muscles- 3
+Stored- 4         Skin- 2
+Sub Conscience- 2 Tendons- 3
+
+Location      Flesh Blunt Laceration  Piercing
+Head          12    90    106         54
+Left Arm      30    90    106         54
+Right Arm     30    90    106         54
+Body          120   90    106         54
+Left Leg      60    90    106         54
+Right Leg     60    90    106         54
+Extra Limb 1  30    0     0           0
+Extra Limb 2  30    0     0           0
+
+Combat Training- Town Guard
+Initiative- 3 Actions- 4 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- Extra limb, exoskeleton, adhesion, extra eyes, wiry.
+Skills- Prowl- 20%, Dodge- 25%, Unarmed- 20%, Small Melee Weapons- 10%, Archery-49%, 
+Basic Medicine- 35%
+Equipment- Padded sports safety armor (all locations, except extra limbs), bow, 3d10 arrows
+(1d10x2), night stick (1d10+5), purse, cheesy romance novel, playing cards, sun glasses, zippo
+lighter.
+Coin- $ 3d10
+Notes- Sticks to most surfaces, has 9 extra eyes, has 2 extra limbs.
+
+Town Leader
+As opposed to the brutal and blood thirsty leaders of marauder groups, leaders of towns tend to
+be more on the passive and charismatic side of the spectrum. Their position is gained with the
+consent of the townspeople. Though they are peaceful, they still know a thing or two about
+defending themselves. Being able to and willing to are two very different things though.
+
+Title- Town Leader 
+Strain- Brain
+Mental            Physical
+Abstract- 6       Bones- 1
+Learnable- 6      Metabolism- 2
+Senses- 3         Muscles- 2
+Stored- 6         Skin- 5
+Sub Conscience- 2 Tendons- 1
+
+Location  Flesh Blunt Laceration  Piercing
+Head      2     2     8           2
+Left Arm  5     2     8           2
+Right Arm 5     2     8           2
+Body      20    2     8           2
+Left Leg  10    2     8           2
+Right Leg 10    2     8           2
+
+Combat Training- Untrained
+Initiative- 3 Actions- 1 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- Uncovered brain, abnormally large head, inherited memories, Nearsighted,
+lethargic.
+Skills- Prowl- 20%, Dodge- 100%, Unarmed- 35%, Pistols- 100%, Basic Medicine- 120%
+Equipment- Old suit (All locations), 9 mm semiautomatic pistol, 2d10 9 mm hollow head
+bullets (4d10x5), suit case, pistol holster, various papers on the town, glasses to correct
+nearsighted.
+Coin- $ 2d10x100
+Notes- Confused as to who they are exactly, not so great at seeing things in the distance.
+
+Combat Tech
+This is a generic term for any person, or group of people who were lucky enough to discover a
+substantial amount of technological goodies. Given the difficulty in finding what they possess,
+getting it, and holding on to it, it isn’t a big surprise that they are always quite dangerous. The
+good news about them is that they do not exist in substantial numbers.
+
+Title- Combat Tech 
+Strain- Rotter
+Mental            Physical
+Abstract- 4       Bones- 4
+Learnable- 7      Metabolism- 5
+Senses- 5         Muscles- 5
+Stored- 6         Skin- 1
+Sub Conscience- 2 Tendons- 5
+
+Location  Flesh Blunt Laceration  Piercing
+Head      8     60    60          600
+Left Arm  20    60    60          600
+Right Arm 20    60    60          600
+Body      80    60    60          600
+Left Leg  40    60    60          600
+Right Leg 40    60    60          600
+
+Combat Training- Action Movies
+Initiative- 5 Actions- 4 Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Cancerous, preserved, rotted flesh, passage of death, glows.
+Skills- Prowl- 20%, Dodge- 70%, Unarmed- 70%, Pistols- 120%, Rifles- 120%, Basic Medicine- 55%
+Equipment- Riot armor (All locations), M16 assault rifle, 1d10x10 5.56 AP bullets (1d10x10), 
+.44 magnum revolver, 1d10 .44 magnum hollow head bullets (5d10x5), pistol holster, first aid kit,
+hypodermic needle containing The Syrum, 1d10 water purification pills, lighter.
+Coin- $ 2d10x100
+Notes- Immune to radiation, spreads diseases, suffers no penalties for melee fighting in the dark,
+kills nearby plants, can not prowl at night.
+
+Piloting Tech
+People don’t always want to walk from town to town when they need to travel. Given the
+dangerous nature of travel between towns, people lucky enough to have vehicles would rather put
+weapons on them to protect their expensive investments. So this is where piloting techs come
+into play. They take the the time and effort to soup up their vehicles with extra modifications,
+weapons, and booby traps. Outside of their given transport, they are only marginally
+intimidating. Inside their vehicles they are terrifying.
+
+Title- Piloting Tech 
+Strain- Amoeba
+Mental            Physical
+Abstract- 4       Bones- 5
+Learnable- 2      Metabolism- 2
+Senses- 6         Muscles- 2
+Stored- 2         Skin- 7
+Sub Conscience- 4 Tendons- 2
+
+Location Flesh  Blunt Laceration  Piercing
+Head      10    2     8           2
+Left Arm  25    16    40          24
+Right Arm 25    16    40          24
+Body      100   16    40          24
+Left Leg  50    2     8           2
+Right Leg 50    2     8           2
+
+Combat Training- Football
+Initiative- 4 Actions- 2 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- Allergies, plastic skin, silicone flesh, overactive stomach acid production, lethargic.
+Skills- Drive- 40%, Prowl- 20%, Dodge- 25%, Unarmed- 35%, Rifles- 25%, Basic Medicine- 35%
+Equipment- Smelly old clothes (all locations), leather jacket (left arm, right arm, body), cards,
+compass, various maps, sun glasses, mini van with; Extra fuel tanks, 2 mounted AK-47’s,
+3d10x10 7.62 tracer bullets (2d10x10), 3d10 gallons of gasoline in the tank.
+Coin- $ 1d10x100
+Notes- May vomit stomach acid on target that does 2d10 damage each turn it remains on it’s
+target, allergens incapacitates, has constant heartburn.
+
+Psychopath
+Sanity just isn’t for everybody. When a person decides that their own form of reality is a better
+place to stay at then the currently accepted one, they become a psychopath. They could be
+anything from comatose to raving madmen who crave nothing more than to kill without any
+remorse. A comatose person isn’t really worth making up stats for, so it would logically follow
+that the people represented here are the diabolical “Let’s kill everyone that we can see” type of
+person. They are very unstable and it would be futile to even begin to attempt to predict what
+they would do in a given situation.
+
+Title- Psychopath 
+Strain- Immune
+Mental            Physical
+Abstract- 3       Bones- 3
+Learnable- 3      Metabolism- 3
+Senses- 3         Muscles- 3
+Stored- 3         Skin- 3
+Sub Conscience- 3 Tendons- 3
+
+Location  Flesh Blunt Laceration  Piercing
+Head      6     2     8           2
+Left Arm  15    2     8           2
+Right Arm 15    2     8           2
+Body      60    2     8           2
+Left Leg  30    2     8           2
+Right Leg 30    2     8           2
+
+Combat Training- Untrained
+Initiative- 3 Actions- 3 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- None
+Skills- Prowl- 30%, Dodge- 30%, Unarmed- 45%, Throw- 38%, Basic Medicine- 15%
+Equipment- Torn tatters of clothing (All locations), Stuffed animal, Red rubber bouncy ball
+(1d10)
+Coin- None
+Notes- None
+
+Naturalist
+With the great bounty of genetically diverse florin and fauna throughout out the world, one
+doesn’t need to look far for various drugs that may be required. The difficult part comes in when
+one wants to distinguish the effects of the plants and animals. This is a very desirable trade for
+people that wish to live off of the land. These people aren’t very aggressive, but they will defend
+themselves when the are required to. They are mostly known for what poisonous potions and
+helpful brews they can make for those that find them and meet their prices.
+
+Title- Naturalist 
+Strain- Dryad
+Mental            Physical
+Abstract- 5       Bones- 2
+Learnable- 2      Metabolism- 1
+Senses- 2         Muscles- 3
+Stored- 5         Skin- 4
+Sub Conscience- 4 Tendons- 3
+
+Location  Flesh Blunt Laceration  Piercing
+Head      4     50    135         20
+Left Arm  10    50    135         20
+Right Arm 10    50    135         20
+Body      40    50    135         20
+Left Leg  20    50    135         20
+Right Leg 20    50    135         20
+
+Combat Training- Boxing
+Initiative- 1 Actions- 3 Melee damage- 1d10
+Moves- Punch (1d10), kick (2d10), grapple, KO (1d10).
+Mutations- Elongated limbs, leaves and bark, poisonous blood, altered perception,
+photosynthesis.
+Skills- Prowl- 50%, Dodge- 55%, Unarmed- 65%, Small Melee Weapons- 45%, Basic Medicine- 35%
+Equipment- Hollow dagger with strong poison inside (1d10+8 and strong poison damage),
+various herbs and animal parts, herbal healing aid.
+Coin- $ 2d10x50
+Notes- Doesn’t need food, can survive off of sunlight and dirt, arms and legs are extremely
+long, blood counts as a strong poison when consumed or introduced into others, perceives
+pheromones.
+
+Deviant
+When everything starts falling appart around you, there are typically two roads one can take.
+The first is you grit your teeth and do what is necessary to help yourself and those around you.
+This is generally the preferred method.  The other method is to draw everything you can to 
+yourself.  Disregaurd everyone around you and turn all your attenting inward.  Those that go down
+that path become Deviants.  Their tastes are as varied as the number of stars in the night sky, 
+ranging from obsessively pressing wildflowers to cannibalism.  Most leave them to their demented
+ways, so long as it doesn't put them in danger.
+
+Title- Deviant 
+Strain- Leather Neck
+Mental            Physical
+Abstract- 3       Bones- 7
+Learnable- 1      Metabolism- 5
+Senses- 3         Muscles- 5
+Stored- 2         Skin- 4
+Sub Conscience- 2 Tendons- 2
+
+Location  Flesh Blunt Laceration  Piercing
+Head      14    2     8           2
+Left Arm  35    2     8           2
+Right Arm 35    2     8           2
+Body      140   2     8           2
+Left Leg  70    2     8           2
+Right Leg 70    2     8           2
+
+Combat Training- Knife Fighting
+Initiative- 3 Actions- 2 Melee damage- 2d10
+Moves- Punch (2d10), kick (3d10), grapple, KO (1d10).
+Mutations- Hoofed feet, horns, leathery hide, gigantic, extra stomachs.
+Skills- Prowl- 40%, Dodge- 35%, Unarmed- 40%, Small Melee Weapons- 40%, Support Firearms- 38%,
+Basic Medicine- 20%
+Equipment- Red robe (all locations), flame-thrower, 3 gallon canister of napalm
+(3d10x1d10), machete (2d10+13), empty hypodermic needle, small bag of heroine,
+silver spoon, zippo, boots.
+Coin- $ 1d10x10
+Notes- Must eat twice as much as a normal person, head butt does double piercing damage.
+
+Bestiary
+This section is dedicated to the animals that roam the world. The following animals are hardier
+than what had existed before the plague. As Darwin said, “Only the strong survive,” and animals
+are the embodiment of that philosophy.
+
+Bears
+Bears are large and furry animals that are much larger than people. They don’t tend to be overly
+aggressive except when they are protecting their young or when they are desperately hungary.
+They live in caves near or in forests or basements and cellars of abandoned buildings.
+
+Species- Bear
+Mental      Physical
+Abstract- 3 Muscles- 8
+Senses- 4   Tendons- 4
+
+Location  Flesh Blunt Laceration  Piercing
+Head      30    0     0           0
+Left Arm  75    0     0           0
+Right Arm 75    0     0           0
+Body      300   0     0           0
+Left Leg  150   0     0           0
+Right Leg 150   0     0           0
+
+Initiative- 4
+Actions- 4
+Moves- Bite- (4d10x10), swipe- (3d10x5)
+Skills- Swimming- 80%, prowl- 50%, unarmed- 100%, dodge- 30%.
+Notes- None.
+
+Birds
+Birds are the species that have control of the air. As a group they all have beaks, feathers, and
+wings. Birds are either carnivores or vegetarians, with vegetarians being non-aggressive and
+carnivores being the aggressive side. They tend to nest up high off the ground in trees, attics, or
+skyscrapers.
+
+Species- Bird
+Mental      Physical
+Abstract- 1 Muscles- 1
+Senses- 5   Tendons- 5
+
+Location    Flesh Blunt Laceration  Piercing
+Head        4     0     0           0
+Left Wing   10    0     0           0
+Right Wing  10    0     0           0
+Body        40    0     0           0
+Left Leg    20    0     0           0
+Right Leg   20    0     0           0
+
+Initiative- 5
+Actions- 5
+Moves- Peck- (1d10x2), Claw- (1d10).
+Skills- Flight- 95%, unarmed- 35%, dodge- 45%.
+Notes- None.
+
+Snakes
+Most of the snakes that have survived all that has happened to the world have done so for two
+reasons. Firstly they are all exceptionally poisonous. Secondly they are overly aggressive. They
+are long, thin, and without limbs. They live anywhere that is cool, dark, and secluded.
+
+Species- Snake
+Mental      Physical
+Abstract- 3 Muscles- 1
+Senses- 5   Tendons- 7
+
+Location  Flesh Blunt Laceration  Piercing
+Head      6     50    30          20
+Body      60    50    30          20
+
+Initiative- 5
+Actions- 7
+Moves- Bite- (1d10)
+Skills- Prowl- 105%, unarmed- 65%.
+Notes- If bitten by snake, a dose of death poison is received.
+
+Wild Dogs
+In the days before the plague a lot of people kept dogs for pets. When nearly all of the animal’s
+masters died off, the dogs escaped and began to roam through the countryside. Dogs will live
+where ever they can, and tend to run in large packs.
+
+Species- Dogs
+Mental      Physical
+Abstract- 4 Muscles- 3
+Senses- 4   Tendons- 3
+
+Location        Flesh Blunt Laceration  Piercing
+Head            8     0     0           0
+Left Front Leg  20    0     0           0
+Right Front Leg 20    0     0           0
+Body            80    0     0           0
+Left Rear Leg   40    0     0           0
+Right Rear Leg  40    0     0           0
+Tail            8     0     0           0
+
+Initiative- 4
+Actions- 3
+Moves- Bite- (2d10x2)
+Skills- Prowl- 75%, unarmed- 80%, dodge- 50%.
+Notes- None.
+
+Large Cats
+Of all the cats that survived the events that nearly ended the world, the larger more feral cats are
+what most people worry about. They are half as tall as an average person and they are as long as
+a person is tall. Large cats make their dens in spaces that are hidden from people, such as
+abandoned buildings, caves, or in forest clearings.
+
+Species- Cat
+Mental    Physical
+Abstract- 5 Muscles- 3
+Senses- 4   Tendons- 5
+
+Location        Flesh Blunt Laceration  Piercing
+Head            16    0     0           0
+Left Front Leg  40    0     0           0
+Right Front Leg 40    0     0           0
+Body            160   0     0           0
+Left Rear Leg   80    0     0           0
+Right Rear Leg  80    0     0           0
+Tail            16    0     0           0
+
+Initiative- 4 Actions- 5
+Moves- Bite- (1d10x10), Swipe- (1d10x2).
+Skills- Prowl- 100%, unarmed- 85%, dodge- 60%.
+Notes- None.
+
+Deer
+Before the plague deer were passive and hunted for food. Unknown events made them into
+overly aggressive animals. They have been known to attack humans on sight. Otherwise they
+have changed little physically.
+
+Species- Deer
+Mental      Physical
+Abstract- 3 Muscles- 4
+Senses- 4   Tendons- 5
+
+Location        Flesh Blunt Laceration  Piercing
+Head            20    0     0           0
+Left Front Leg  50    0     0           0
+Right Front Leg 50    0     0           0
+Body            200   0     0           0
+Left Rear Leg   100   0     0           0
+Right Rear Leg  100   0     0           0
+Tail            20    0     0           0
+
+Initiative- 4
+Actions- 5
+Moves- Head butt- (2d10x5), trample- (3d10x10).
+Skills- Prowl- 125%, unarmed- 100%, dodge- 100%.
+Notes- None.
+
+Rat
+Rats not only survived the plague, but prospered. Being scavengers they have plenty to eat. Rats
+alone aren’t that intimidating, but if encountered in a pack, they tend to swarm and overwhelm
+their young, sick, wounded, or sleeping victims. They live anywhere they can.
+
+Species- Rats
+Mental      Physical
+Abstract- 6 Muscles- 1
+Senses- 1   Tendons- 2
+
+Location        Flesh Blunt Laceration  Piercing 
+Head            1     0     0           0
+Left Front Leg  3     0     0           0
+Right Front Leg 3     0     0           0
+Body            10    0     0           0
+Left Rear Leg   5     0     0           0
+Right Rear Leg  5     0     0           0
+Tail            1     0     0           0
+
+Initiative- 1
+Actions- 2
+Moves- Bite- (1d10), claw- (1d10).
+Skills- Prowl- 100%, unarmed- 50%, dodge- 40%
+Notes- None.
+
+Frog
+Frogs were the only species as a whole that were radically mutated. The frogs were experimented
+on when the syrum was being researched, and a family of gigantic frogs escaped. The giant frogs
+reproduced and overwhelmed the normally sized frog population. The larger frogs will eat
+anything. They will eat people, pets, or anything else that they can fit into their mouths. They
+live in swamps, bogs, or near rivers or lakes.
+
+Species- Frog
+Mental      Physical
+Abstract- 3 Muscles- 5
+Senses- 3   Tendons- 5
+
+Location        Flesh Blunt Laceration  Piercing
+Head            18    0     0           0
+Left Front Leg  45    0     0           0
+Right Front Leg 45    0     0           0
+Body            180   0     0           0
+Left Rear Leg   90    0     0           0
+Right Rear Leg  90    0     0           0
+
+Initiative- 4
+Actions- 5
+Moves- Bite- (3d10x2), Tongue shot- (1d10).
+Skills- Prowl- 50%, unarmed- 100%, throw (tongue)- 150%, dodge- 45%.
+Notes- None.
