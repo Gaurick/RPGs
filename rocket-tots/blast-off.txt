@@ -1,3 +1,4 @@
+
 This is a quick RPG/writing prompt where you have to disarm old, unstable cruise missiles containing the first weapons based AI systems.  The systems give the cruise missiles the personality and temperment of a four year old child.  You must find a way to dissarm the weapons without triggering them.  Unless this is a post-incident report.  Each section of the ID cards and the incident report have a brief ddescription as well as a handfull of answer prompts.  You can select any prompt provided, roll a six sided die and use the prompt who's number matches the number you rolled, or make one up.  Or do whatever you want, I won't be checking answers or anything like that.
 
 SAFETY FIXME
@@ -143,19 +144,19 @@ Were you able to disarm the weapon- It is yor primary responsibility after all.
 6- Disarmed, dismantled, logged away, and paperwork is nearly filed.
 
 Did the AI know of any other weapons
-1- ZZZ
-2- 
-3- 
-4- 
-5- 
-6- 
+1- It didn't even realize it was a weapon of mass destruction.
+2- The AI vauegly recalls being with others like itself, but the memory is fleeting and badly corrupted.
+3- Trying to impress you the AI gives you a list of locations, all of which seem suspicious at best.
+4- A few solid leads were given to you.
+5- You're going to be very busy chaising all the leads you got.
+6- While you didnt get any locations, you were able to learn of a way to locate other AI's.
 
 Current condition of weapon
-1- 
+1- At best it's scrap, but it's probably closer to irradiated scrap.
 2- 
 3- 
 4- 
 5- 
-6- 
+6- Both the AI and weapon, while separate, are both fully functional and secured.
 
 Describe the interactions with the AI in depth
