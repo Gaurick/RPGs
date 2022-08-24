@@ -8,4 +8,4 @@ Currently contains...
 **Singularity-** an excuse to use d16's with hexadecimal numbers on the faces.  Play as AI's trying to make their way in the brave new world.
 **Rocket Tots-** had a dream that compelled me to write it.  Solo RPG based on creating post-incident reports for disarming AI's with todler level intelligence attached to weapons of mass destruction.
 
-End.
+End..
